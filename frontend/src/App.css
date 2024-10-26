@@ -1,0 +1,62 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+}
+.App{
+  display:flex;
+  height:100vh;
+  flex-direction: column;
+}
+/* search */
+.search-input {
+  padding: 0.5rem;
+  margin-right: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+/* filter-section */
+.filter-section{
+  display:flex;
+  padding:.5rem 2rem;
+  background-color: #f8f8f8;
+  justify-content: space-between;
+}
+/* main section */
+.main-section{
+  position: relative;
+  /* display: flex; */
+  background-color: #f4f4f4;
+  /* justify-content: center; */
+  flex-grow: 1;
+  /* align-items: center; */
+
+}
+/* Set crosshair cursor for the map container */
+.maplibre-container {
+  cursor: crosshair; /* Or any other desired cursor */
+}
+/* marker */
+.marker {
+  background-color: #ff0000; /* Example: Red */
+  border-radius: 50%;
+  width: 10px; /* Adjust size */
+  height: 10px; /* Adjust size */
+  position: relative; /* Needed for positioning */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 12px;
+}
+
+/* footer styles */
+.footer{
+  background-color:#eeeee4;
+  padding:1rem;
+  color: #000;
+  text-align: center;
+}
