@@ -1,0 +1,625 @@
+1,Kamiti Prison Hospital,1,NGH1by3UZpG,13000,,Primary care hospitals,Ministry of Health,36.8934300000,-1.17611000000,Nairobi County,0101000000F5A10BEA5B7242401AFA27B858D1F2BF
+2,Penda Medical Care,2,d5EpOhR7z9Z,22946,,Medical Clinic,Private Practice - General Practitioner,36.8947340000,-1.17687100000,Nairobi County,0101000000444FCAA486724240E7C589AF76D4F2BF
+3,Kenyatta University Dispensary,3,tKlvNnIuqxp,13024,,Dispensary,Ministry of Health,36.9349700000,-1.17840000000,Nairobi County,0101000000DD5ED218AD774240D0B359F5B9DAF2BF
+4,St Joseph Mukasa Dispensary,4,ZYF5HlmIFYp,13208,,Dispensary,Other Faith Based,36.9069400000,-1.17840000000,Nairobi County,010100000095B7239C16744240D0B359F5B9DAF2BF
+5,Kahawa Garrison Health Centre,5,Z651WqP7Aeg,12996,,Basic Health Centre,Ministry of Health,36.8974800000,-1.18048000000,Nairobi County,01010000003468E89FE0724240335019FF3EE3F2BF
+6,Prime Healthservices Dispensary,6,k48ops0mPs3,13147,,Medical Clinic,Private Practice - Private Institution Academic,36.9099000000,-1.18157000000,Nairobi County,0101000000B1506B9A777442409DF4BEF1B5E7F2BF
+7,Ogwedhi Dispensary (Nairobi North),7,DNI1noS0flx,13133,,Medical Clinic,Private Practice - Private Institution Academic,36.9099000000,-1.18157000000,Nairobi County,0101000000B1506B9A777442409DF4BEF1B5E7F2BF
+8,St Michael Community Nursing Home,8,gGgqJDWro4L,19332,,Basic Health Centre,Private Practice - General Practitioner,36.9037200000,-1.18332000000,Nairobi County,0101000000DD5ED218AD734240573ECBF3E0EEF2BF
+9,Congo medical services,9,bQRlQB0zjJr,20641,,Medical Clinic,Private Practice - Private Institution Academic,36.9066500000,-1.18613000000,Nairobi County,01010000008E75711B0D74424026DF6C7363FAF2BF
+10,Farmers choice welness centre clinic,10,urrwJcTtxd1,20078,,Medical Clinic,Private Practice - General Practitioner,36.9101000000,-1.18628000000,Nairobi County,0101000000780B24287E744240D061BEBC00FBF2BF
+11,Kahawa West Health Centre,11,dtRiIn99llQ,12997,,Basic Health Centre,Ministry of Health,36.9127800000,-1.18716000000,Nairobi County,0101000000B0389CF9D5744240E6E8F17B9BFEF2BF
+12,Gathanga Health Centre,12,wOcT7C4Gqzh,10214,,Dispensary,Ministry of Health,36.7932000000,-1.19175000000,Kiambu County,0101000000F697DD9387654240C520B0726811F3BF
+13,Imani Medical Centre,13,BR27cAkYiIh,19402,,Medical Center,Private Practice - General Practitioner,36.9028500000,-1.19761000000,Nairobi County,0101000000C898BB96907342400CCD751A6929F3BF
+14,Afya Healthcare,14,wdClQzCFIJ4,18486,,Medical Clinic,Private Practice - Private Institution Academic,36.9017200000,-1.19949000000,Nairobi County,010100000016139B8F6B7342408C101E6D1C31F3BF
+15,Smilestar Medical Services,15,Nr0vtpx3F2K,22790,,Medical Clinic,Private Practice - General Practitioner,36.9147270000,-1.19965000000,Nairobi County,010100000054E23AC615754240A857CA32C431F3BF
+16,SAPTA Trust(Githurai),16,AaJSjh8l4DS,23467,,VCT,Non-Governmental Organizations,36.9152535000,-1.19995530000,Nairobi County,01010000005706D50627754240049722540433F3BF
+17,Milele Med Clinic,17,PkluJozhxUq,20018,,Medical Clinic,Private Practice - General Practitioner,36.9005200000,-1.20080000000,Nairobi County,01010000006CB2463D44734240BC96900F7A36F3BF
+18,Githurai Medical dispensary,18,x9hGRq2zvep,12956,,Medical Clinic,Private Practice - Private Institution Academic,36.9038000000,-1.20244000000,Nairobi County,0101000000F90FE9B7AF734240936FB6B9313DF3BF
+19,Zimmerman Medical Dispensary,19,BdROQCWt6jY,13261,,Medical Clinic,Private Practice - Private Institution Academic,36.9038000000,-1.20244000000,Nairobi County,0101000000F90FE9B7AF734240936FB6B9313DF3BF
+20,Round About Medical Dispensary,20,oImJcc9hpHu,13167,,Medical Clinic,Private Practice - Private Institution Academic,36.9038000000,-1.20244000000,Nairobi County,0101000000F90FE9B7AF734240936FB6B9313DF3BF
+21,Marurui Dispensary,21,FzCzyHnlX47,13071,,Dispensary,Private Practice - Private Institution Academic,36.9038000000,-1.20244000000,Nairobi County,0101000000F90FE9B7AF734240936FB6B9313DF3BF
+22,Family Care Clinic Kasarani,22,H8jAinfMRE1,12937,,Medical Clinic,Private Practice - Private Institution Academic,36.9038000000,-1.20244000000,Nairobi County,0101000000F90FE9B7AF734240936FB6B9313DF3BF
+23,Giovanna Dispensary,23,mztXSGcthsz,12955,,Dispensary,Private Practice - Private Institution Academic,36.9038000000,-1.20244000000,Nairobi County,0101000000F90FE9B7AF734240936FB6B9313DF3BF
+24,Corner Stone,24,uPXIcOKAbIW,12906,,VCT,Private Practice - Private Institution Academic,36.9038000000,-1.20244000000,Nairobi County,0101000000F90FE9B7AF734240936FB6B9313DF3BF
+25,Githurai LVCT,25,q6q6rIg7DCT,12957,,VCT,Private Practice - Private Institution Academic,36.9038000000,-1.20244000000,Nairobi County,0101000000F90FE9B7AF734240936FB6B9313DF3BF
+26,St John Hospital,26,HiYExi21bCp,13205,,Primary care hospitals,Private Practice - Private Institution Academic,36.9038000000,-1.20244000000,Nairobi County,0101000000F90FE9B7AF734240936FB6B9313DF3BF
+27,Ronil Medical Clinic (Githurai),27,NXMFeIy2p6d,13166,,Medical Clinic,Private Practice - Private Institution Academic,36.9038000000,-1.20244000000,Nairobi County,0101000000F90FE9B7AF734240936FB6B9313DF3BF
+28,Christian Aid Dispensary,28,tgK4msmGqld,12895,,Medical Clinic,Private Practice - Private Institution Academic,36.9038000000,-1.20244000000,Nairobi County,0101000000F90FE9B7AF734240936FB6B9313DF3BF
+29,Kamwitha Medical Clinic,29,Th3MBuowwKS,19369,,Medical Center,Private Practice - Clinical Officer,36.8964400000,-1.20661000000,Nairobi County,0101000000C269C18BBE724240CA6C9049464EF3BF
+30,Index Medical centre,30,rwI1o5p5axf,19333,,Medical Clinic,Private Practice - General Practitioner,36.8947200000,-1.20683000000,Nairobi County,0101000000DF89592F86724240904E5DF92C4FF3BF
+31,Africare Ltd Medical- TRM,31,WT5NhyAKVxE,23189,,Medical Center,Private Practice - General Practitioner,36.8891550000,-1.21082100000,Nairobi County,01010000009609BFD4CF714240D3F544D7855FF3BF
+32,Gertrudes Children's hosp Clinic TRM,32,O2bZjwm1QBr,22785,,Primary care hospitals,Private Practice - General Practitioner,36.8891550000,-1.21082100000,Nairobi County,01010000009609BFD4CF714240D3F544D7855FF3BF
+33,Mater HospitalClinic (TRM),33,mSJ2nuDLoS4,22938,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.8891550000,-1.21082100000,Nairobi County,01010000009609BFD4CF714240D3F544D7855FF3BF
+34,Bar Hostess Empowerment  Support program,34,DrkmmYfcr91,23200,,Medical Clinic,Non-Governmental Organizations,36.8915440000,-1.21083400000,Nairobi County,0101000000F778211D1E7242406728EE78935FF3BF
+35,Partner's For Care Med Centre,35,syCMvN84l5I,23190,,Medical Center,Non-Governmental Organizations,36.8744590000,-1.21154100000,Nairobi County,0101000000B058C345EE6F4240CE35CCD07862F3BF
+36,St Louis Community Hospital,36,SLaDzpBqQ87,19280,,Primary care hospitals,Private Practice - General Practitioner,36.8953800000,-1.21221000000,Nairobi County,01010000000ABFD4CF9B72424085251E503665F3BF
+37,Pointnc Medical Clinic,37,cUK7YOIf5zQ,24649,,Medical Clinic,Private Practice - Nurse / Midwifery,36.8238000000,-1.21230002000,Nairobi County,0101000000EF384547726942403D71ADB49465F3BF
+38,Good Samaritan Dispensary,38,zxi7V0eJPOR,12959,,Dispensary,Private Practice - Private Institution Academic,36.8665000000,-1.21480000000,Nairobi County,0101000000F4FDD478E96E42408FE4F21FD26FF3BF
+39,AAR Thika Road Clinic,39,C1LIWUfN9s6,12863,,Medical Clinic,Private Practice - Private Institution Academic,36.8665000000,-1.21480000000,Nairobi County,0101000000F4FDD478E96E42408FE4F21FD26FF3BF
+40,Jesse Kay Children's Hospital,40,k8nDCqVSMVJ,24073,,Primary care hospitals,Other Faith Based,36.8887400000,-1.21540800000,Nairobi County,0101000000D252793BC271424090BFB4A84F72F3BF
+41,Githogoro Runda Baptist Clinic,41,bGUaAhlsRqp,18887,,Medical Clinic,Private Practice - Private Institution Academic,36.8221400000,-1.21602000000,Nairobi County,0101000000E15D2EE23B694240BF823463D174F3BF
+42,Consolata Shrine Dispensary,42,op4gb7n6TEJ,18888,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.8221500000,-1.21603000000,Nairobi County,0101000000053411363C69424030478FDFDB74F3BF
+43,Samlink Med Clinic,43,rrFXWcUIIUd,20235,,Medical Clinic,Private Practice - Clinical Officer,36.9032900000,-1.21722000000,Nairobi County,0101000000E466B8019F7342400B98C0ADBB79F3BF
+44,Hopkins Medical Clinic,44,FnF4vKmaGc4,22854,,Medical Clinic,Private Practice - Clinical Officer,36.9031661000,-1.21740430000,Nairobi County,01010000008D2D5FF29A734240082868EE7C7AF3BF
+45,Radiant Hospital Kasarani Annex,45,BAGfx0tHc8a,23068,,Primary care hospitals,Private Practice - General Practitioner,36.9022966000,-1.21802030000,Nairobi County,010100000060257A747E73424064D3A5DA027DF3BF
+46,U.S.I.U AFRICA,46,T9wI1fsZ2eZ,19948,,VCT,Ministry of Health,36.8798600000,-1.21820000000,Nairobi County,01010000007F87A2409F70424092CB7F48BF7DF3BF
+47,Kasarani Health Centre,47,FGeEpfWlpMJ,13010,,Basic Health Centre,Ministry of Health,36.9013900000,-1.21821000000,Nairobi County,010100000081785DBF607342400490DAC4C97DF3BF
+48,Shekina Medical Clinic,48,urjy80uwTIG,18471,,Medical Center,Private Practice - Clinical Officer,36.9003500000,-1.21837000000,Nairobi County,0101000000107A36AB3E7342401FD7868A717EF3BF
+49,Josma Medical Clinic (Kasarani),49,db7j2E5IJpq,17951,,Medical Clinic,Private Practice - Private Institution Academic,36.9014300000,-1.21862000000,Nairobi County,01010000000FD1E80E627342403A0664AF777FF3BF
+50,Flomed Med Clinic,50,FGFohunR5BH,18472,,Medical Clinic,Private Practice - Nurse / Midwifery,36.8947467000,-1.22046000000,Nairobi County,01010000001A5A530F87724240F437A1100187F3BF
+51,Mkunga Nursing Home,51,dNNCJcHxNSm,13094,,Nursing Homes,Private Practice - Private Institution Academic,36.8940800000,-1.22089000000,Nairobi County,0101000000FC00A436717242400D37E0F3C388F3BF
+52,Thika Road Health Services Ltd (Kasarani),52,CuGI0PdC46e,17950,,Medical Clinic,Private Practice - Private Institution Academic,36.8865600000,-1.22420040000,Nairobi County,01010000008CF84ECC7A7142407C009C285396F3BF
+53,Kasarani Maternity,53,MGOxlVHWhrP,13011,,Basic Health Centre,Private Practice - Nurse / Midwifery,36.9046000000,-1.22429000000,Nairobi County,010100000016FBCBEEC9734240111E6D1CB196F3BF
+54,St Francis Community  Hospital,54,SeLYvjWGi5f,13202,,Primary care hospitals,Private Practice - Private Institution Academic,36.9046000000,-1.22429000000,Nairobi County,010100000016FBCBEEC9734240111E6D1CB196F3BF
+55,Nimoli Medical Centre,55,IxhhXrz2q0V,13125,,Medical Center,Private Practice - Private Institution Academic,36.9046000000,-1.22429000000,Nairobi County,010100000016FBCBEEC9734240111E6D1CB196F3BF
+56,Mwiki CFW Clinic,56,mJV9qxDcoP0,13012,,Medical Clinic,Private Practice - Private Institution Academic,36.9046000000,-1.22429000000,Nairobi County,010100000016FBCBEEC9734240111E6D1CB196F3BF
+57,Nairobi Adventist Hospital Limited,57,Mh5GJbVMXaB,24563,,Primary care hospitals,Seventh Day Adventist,36.7834180000,-1.22430700000,Nairobi County,0101000000828C800A47644240D238D4EFC296F3BF
+58,Mji Wa Huruma Dispensary,58,zyuBBJsgA3V,13093,,Dispensary,Ministry of Health,36.8272700000,-1.22685000000,Nairobi County,0101000000207BBDFBE3694240C58F31772DA1F3BF
+59,Hunters Medical Clinic,59,I6Ll8ra4EHt,19302,,Medical Clinic,Private Practice - General Practitioner,36.9182700000,-1.22724000000,Nairobi County,0101000000EF7211DF89754240187D0569C6A2F3BF
+60,beyond Zero Nyandarua,60,muBLOuy1DmZ,20303,,Dispensary,Public Institution - Academic,36.8954800000,-1.22762000000,Nyandarua County,01010000006D1CB1169F724240F8A57EDE54A4F3BF
+61,Belladonna Pharmacy village market,61,R04YLLAYPOI,23871,,Pharmacy,Private Practice - General Practitioner,36.8053990000,-1.22770500000,Nairobi County,0101000000959D7E5017674240BF2B82FFADA4F3BF
+62,Sunton Cfc Medical Clinic,62,NODoY5IIDVK,18438,,Medical Clinic,Private Practice - Nurse / Midwifery,36.9224900000,-1.23047000000,Nairobi County,01010000008B71FE26147642408E588B4F01B0F3BF
+63,Maximum Medical Clinic,63,NUXU4Bz6jIX,20360,,Medical Center,Private Practice - Nurse / Midwifery,36.9266600000,-1.23067000000,Nairobi County,010100000074417DCB9C76424070B1A206D3B0F3BF
+64,Uzima Uhai Health centre,64,uhNFQITyFnB,22848,,Medical Center,Private Practice - Nurse / Midwifery,36.9309750000,-1.23262835000,Nairobi County,0101000000613255302A77424085F53581D8B8F3BF
+65,Pona Mat Dispensary,65,En1RckvwRHT,13145,,Medical Clinic,Private Practice - Private Institution Academic,36.9633000000,-1.23264000000,Nairobi County,01010000004F1E166A4D7B4240F0DC7BB8E4B8F3BF
+66,MediPoint Dispensary,66,Gv6OwZSA8YB,13085,,Medical Clinic,Private Practice - Private Institution Academic,36.9633000000,-1.23264000000,Nairobi County,01010000004F1E166A4D7B4240F0DC7BB8E4B8F3BF
+67,Medecins Du Monde/France,67,maDPBCxrR28,20451,,Medical Center,Non-Governmental Organizations,36.8053100000,-1.23307000000,Nairobi County,01010000002592E865146742400ADCBA9BA7BAF3BF
+68,Kenya Police Staff College Clinic(Loresho),68,xh6ThjI3eJ6,20371,,Dispensary,Public Institution - Academic,36.8053700000,-1.23307000000,Nairobi County,0101000000FB96395D166742400ADCBA9BA7BAF3BF
+69,Swop Thika Road VCT,69,VgZpqrxhRPh,18896,,VCT,Non-Governmental Organizations,36.8722400000,-1.23409000000,Nairobi County,0101000000AB21718FA56F42405721E527D5BEF3BF
+70,Nairobi Hospital Warwick Outpatient Centre,70,A7Hj0qFzWyW,23559,,Primary care hospitals,Private Practice - Private Institution Academic,36.8103590000,-1.23509900000,Nairobi County,01010000007782FDD7B96742402828452BF7C2F3BF
+71,LVCT Health Kibagare,71,d3DqJVdMeuq,23879,,Primary care hospitals,Private Practice - Private Institution Academic,36.7865120000,-1.23878700000,Nairobi County,0101000000AEF4DA6CAC644240F75B3B5112D2F3BF
+72,Mercylight Hospital-Lucky Summer,72,ZPqh3MgjPrl,22170,,Primary care hospitals,Private Practice - Nurse / Midwifery,36.8988060000,-1.23915200000,Nairobi County,01010000006BB933130C7342402D5E2C0C91D3F3BF
+73,Nelly Medical centre,73,hR8ViHsFxBj,22169,,Medical Clinic,Private Practice - Nurse / Midwifery,36.8988160000,-1.23915300000,Nairobi County,01010000008E8F16670C73424038D89B1892D3F3BF
+74,Babadogo Medical Health Centre,74,HHIUz7tmFmc,12877,,Basic Health Centre,Christian Health Association of Kenya,36.8864000000,-1.23916000000,Nairobi County,01010000005396218E75714240882EA86F99D3F3BF
+75,Babadogo (EDARP),75,CzGqegvtcf5,12875,,VCT,Kenya Episcopal Conference-Catholic Secretariat,36.8864000000,-1.23916000000,Nairobi County,01010000005396218E75714240882EA86F99D3F3BF
+76,Kabete Approved School Dispensary,76,Epr0MAefm4P,12993,,Dispensary,Ministry of Health,36.7306720000,-1.23995300000,Nairobi County,01010000002C0DFCA8865D4240C13BF9F4D8D6F3BF
+77,Lower Kabete Dispensary (Kabete),77,Jk9Ie7dcgWk,13052,,Dispensary,Ministry of Health,36.7459100000,-1.24003000000,Nairobi County,010100000033E197FA795F42402CF180B229D7F3BF
+78,Aimon medical clinic,78,ggBr0DsxxqP,20538,,Medical Clinic,Private Practice - Nurse / Midwifery,36.8957200000,-1.24041000000,Nairobi County,0101000000C22FF5F3A67242400D1AFA27B8D8F3BF
+79,Provide Internatinal Clinic (Dandora),79,vcb5Bl60dD5,13148,,Medical Clinic,Non-Governmental Organizations,36.9098000000,-1.24064000000,Nairobi County,01010000004DF38E537474424044C02154A9D9F3BF
+80,Delta Medical Clinic Dandora,80,TtI9Z0VOCDt,12915,,Medical Clinic,Private Practice - Private Institution Academic,36.9098000000,-1.24064000000,Nairobi County,01010000004DF38E537474424044C02154A9D9F3BF
+81,St Mark Medical Clinic (Nairobi East),81,kUuuDWVUKRv,13214,,Medical Center,Private Practice - Private Institution Academic,36.9098000000,-1.24064000000,Nairobi County,01010000004DF38E537474424044C02154A9D9F3BF
+82,Samaritan Medical Services (Dandora),82,cqx1Wknhos7,13176,,Basic Health Centre,Non-Governmental Organizations,36.9120000000,-1.24241000000,Nairobi County,0101000000DBF97E6ABC744240E292E34EE9E0F3BF
+83,Dandora Medical Centre,83,AIYatK2Im6m,18220,,Medical Center,Private Practice - Nurse / Midwifery,36.9092800000,-1.24262000000,Nairobi County,010100000015747B496374424036B05582C5E1F3BF
+84,St Mary's Health Services,84,ymQ38wfUUFK,13217,,Basic Health Centre,Private Practice - Private Institution Academic,36.8928000000,-1.24396000000,Nairobi County,010100000035EF384547724240BA83D89942E7F3BF
+85,Babadogo Health Centre,85,obSn4iRC7wn,12876,,Basic Health Centre,Ministry of Health,36.8841600000,-1.24410000000,Nairobi County,01010000003737A6272C714240F241CF66D5E7F3BF
+86,Redemeed Health Centre,86,PFlt1dcEN7W,13160,,Basic Health Centre,Ministry of Health,36.8850800000,-1.24425000000,Nairobi County,0101000000FE2B2B4D4A7142409CC420B072E8F3BF
+87,Gsu Hq Dispensary (Ruaraka),87,TKkmK0wUz7B,12963,,Dispensary,Ministry of Health,36.8663600000,-1.24461000000,Nairobi County,010100000002486DE2E46E42409964E42CECE9F3BF
+88,Kamulu Medical Centre,88,WKj9oHwVbNQ,18389,,Medical Clinic,Private Practice - General Practitioner,37.0863622000,-1.24536059000,Nairobi County,0101000000294EA4EA0D8B4240AD6FDC39FFECF3BF
+89,Dandora Health Services,89,d5sJ0lZqztK,17997,,Medical Clinic,Private Practice - Nurse / Midwifery,36.9098000000,-1.24563000000,Nairobi County,01010000004DF38E5374744240E7A90EB919EEF3BF
+90,Brother andre Clinic,90,X43Tf1LIRXh,12887,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.9017366000,-1.24564260000,Nairobi County,0101000000994DDB1A6C734240101258EF26EEF3BF
+91,Nsis Health Centre (Ruaraka),91,HPVki5IAw86,13127,,Basic Health Centre,Ministry of Health,36.8575000000,-1.24667000000,Nairobi County,0101000000F6285C8FC26D42401878EE3D5CF2F3BF
+92,Njiru Health Centre,92,qvpYnC3UQ7z,13126,,Basic Health Centre,Ministry of Health,36.9391000000,-1.24703000000,Nairobi County,010100000039D6C56D347842401618B2BAD5F3F3BF
+93,St Alice (EDARP) Dandora Clinic,93,BNuAK6oLAp4,18219,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.9094890000,-1.24776901000,Nairobi County,01010000002F89B3226A744240C5982EA3DCF6F3BF
+94,Bar Hostess Empowerment Support Program VCT,94,KZuvBDivc8U,18468,,VCT,Non-Governmental Organizations,36.8719300000,-1.24777000000,Nairobi County,01010000005D33F9669B6F4240F4E0EEACDDF6F3BF
+95,Conerstone Clinic,95,WFKNCWeofxP,12903,,Dispensary,Christian Health Association of Kenya,36.9189300000,-1.24816000000,Nairobi County,01010000001AA88C7F9F75424046CEC29E76F8F3BF
+96,Oasis Medical Clinic,96,kzpaOwzmUxJ,18436,,Medical Clinic,Private Practice - Nurse / Midwifery,36.9014675000,-1.24852940000,Kajiado County,010100000015747B49637342401583D1F6F9F9F3BF
+97,C I D Headquaters Clinic,97,e1ZwlD4OyC8,18629,,Dispensary,Armed Forces,36.8483800000,-1.24853000000,Nairobi County,01010000004D4A41B7976C4240B532E197FAF9F3BF
+98,Marura Nursing Home,98,DAovPvkpsUa,13070,,Basic Health Centre,Private Practice - Private Institution Academic,36.8710000000,-1.24875000000,Nairobi County,0101000000736891ED7C6F42407B14AE47E1FAF3BF
+99,St John's Community Health Clinic,99,tQxxWCpYM6G,18222,,Medical Clinic,Non-Governmental Organizations,36.9433000000,-1.24900000000,Nairobi County,01010000008D28ED0DBE78424096438B6CE7FBF3BF
+100,Provide Inter Math Dispensary,100,iwAu4SRuzo5,13149,,Medical Clinic,Private Practice - Private Institution Academic,36.8920100000,-1.24921000000,Nairobi County,01010000003CDA38622D724240E960FD9FC3FCF3BF
+101,Providence  Medical Centre,101,r3OKqK8oIuE,22172,,Medical Clinic,Private Practice - General Practitioner,36.8739200000,-1.24940500000,Nairobi County,010100000000A94D9CDC6F42409357E71890FDF3BF
+102,Provide International Korogocho,102,QOy589NgDHb,13150,,Basic Health Centre,Other Faith Based,36.8715100000,-1.24976000000,Nairobi County,01010000008811C2A38D6F424057957D5704FFF3BF
+103,Mundoro Medical Clinic (Dandora),103,CBBSciFAcbq,13102,,Medical Clinic,Private Practice - Private Institution Academic,36.9011900000,-1.24978000000,Nairobi County,0101000000BABDA4315A7342403A1E335019FFF3BF
+104,PCEA Dandora Clinic,104,oSDjDpuZqxu,12910,,Dispensary,Christian Health Association of Kenya,36.8953000000,-1.25025000000,Nairobi County,0101000000ED0DBE30997242401B2FDD240601F4BF
+105,Kenya Utalii Dispensary,105,wJCMlwmphsy,13022,,Dispensary,Private Practice - Private Institution Academic,36.8617000000,-1.25087000000,Nairobi County,01010000004A7B832F4C6E4240A4C2D8429003F4BF
+106,National Youth Service Hq Dispensary (Ruaraka),106,Rvu6KPuh0ci,13130,,Dispensary,Public Institution - Academic,36.8692700000,-1.25128000000,Nairobi County,01010000006CB2463D446F4240DA38622D3E05F4BF
+107,Kariobangi Health Centre,107,iBcBmbBexUS,13006,,Basic Health Centre,Ministry of Health,36.8797800000,-1.25174000000,Nairobi County,010100000062D68BA19C7042404985B1852007F4BF
+108,Njiru (EDARP) Clinic,108,A1LHwsmDMUX,17548,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.9379900000,-1.25178000000,Nairobi County,0101000000CEFC6A0E107842400F971C774A07F4BF
+109,Jahmii Medical Hospital,109,O4bON1ra4sM,12986,,Primary care hospitals,Private Practice - Private Institution Academic,36.8823000000,-1.25236000000,Nairobi County,010100000062A1D634EF704240D218ADA3AA09F4BF
+110,Lea Toto,110,QaPgykvnQjc,13045,,VCT,Non-Governmental Organizations,36.8823000000,-1.25236000000,Nairobi County,010100000062A1D634EF704240D218ADA3AA09F4BF
+111,PCEA Clinic (Ngundo),111,u0Ig2ddZtP3,13124,,Dispensary,Christian Health Association of Kenya,37.0582000000,-1.25247000000,Nairobi County,01010000004850FC1873874240B58993FB1D0AF4BF
+112,Selina's Health Care,112,VDo8ueN5MiE,22855,,Medical Clinic,Private Practice - Nurse / Midwifery,36.8843383300,-1.25260500000,Nairobi County,010100000081F996FF31714240B4E55C8AAB0AF4BF
+113,Drugnet med centre,113,y8YiZv512Nr,20234,,Medical Center,Private Practice - General Practitioner,36.8718500000,-1.25286000000,Nairobi County,01010000004182E2C7986F4240087767EDB60BF4BF
+114,Saika Community Medical Centre,114,nZtTdv1AuYf,22857,,Medical Center,Private Practice - Nurse / Midwifery,36.9142983300,-1.25311000000,Nairobi County,0101000000971149BA0775424022A64412BD0CF4BF
+115,Mathare North Health Centre,115,Ea0rQYGCbYx,13077,,Basic Health Centre,Ministry of Health,36.8648500000,-1.25323000000,Nairobi County,010100000009F9A067B36E424077DB85E63A0DF4BF
+116,Dr Aziz MOHamed Medical Clinic,116,NP7CdJzEwO0,12924,,Medical Clinic,Private Practice - General Practitioner,36.8010000000,-1.25460000000,Nairobi County,01010000004A0C022B8766424050FC1873D712F4BF
+117,Columbia Africa Health Care Ltd,117,e8xczXdNLDL,22146,,Medical Clinic,Private Practice - Private Company,36.8239450000,-1.25461300000,Nairobi County,0101000000F3599E0777694240E42EC214E512F4BF
+118,Uzima Dispensary,118,yY09wUgxTvI,13246,,Dispensary,Private Practice - Private Institution Academic,36.8557200000,-1.25530000000,Nairobi County,01010000003D44A33B886D424068B3EA73B515F4BF
+119,Savannah Health Services,119,YEYIpWrQjOe,20103,,Basic Health Centre,Private Practice - General Practitioner,36.8779800000,-1.25532600000,Nairobi County,010100000063450DA6617042408F183DB7D015F4BF
+120,Gertrudes Childrens Hospital,120,PpQmurYqrCk,12950,,Primary care hospitals,Private Practice - Private Institution Academic,36.8319730000,-1.25546000000,Nairobi County,0101000000D7135D177E6A424083FA96395D16F4BF
+121,Lions Sightfirst Eye Hospital,121,MXz6urDqjmt,21147,,Primary care hospitals,Private Practice - Private Institution Academic,36.7500200000,-1.25567000000,Nairobi County,010100000047ACC5A700604240D717096D3917F4BF
+122,Saika Nursing Home,122,YqrbdGAX6VZ,18386,,Basic Health Centre,Private Practice - Clinical Officer,36.9161930000,-1.25585000000,Nairobi County,01010000007DE9EDCF45754240D5E76A2BF617F4BF
+123,Kabete Barracks Dispensary,123,ZAJmZCH5XHe,12994,,Dispensary,Armed Forces,36.7652000000,-1.25595000000,Nairobi County,01010000001973D712F26142404694F6065F18F4BF
+124,Karma Dispensary,124,TONBXSLbYKX,13008,,Dispensary,Private Practice - Private Institution Academic,36.8802500000,-1.25623400000,Nairobi County,0101000000E9263108AC704240E4F8A1D28819F4BF
+125,Karura Health Centre (Kiambu Rd),125,JQnQJCpt8av,13009,,Basic Health Centre,Ministry of Health,36.8429360000,-1.25624100000,Nairobi County,01010000007F4FAC53E56B4240334FAE299019F4BF
+126,Ruai Health Centre,126,tdskla3Fuag,13171,,Basic Health Centre,Ministry of Health,36.9938428000,-1.25641890000,Nairobi County,0101000000BBAEA93D367F4240803859B44A1AF4BF
+127,Sunrise City medical Centre,127,P7OEbclfWtV,20504,,Medical Center,Private Practice - Clinical Officer,36.8764500000,-1.25657000000,Nairobi County,0101000000234A7B832F704240D027F224E91AF4BF
+128,Heri Wema Health Centre (Ruai),128,nKryoYIYgDW,21295,,Basic Health Centre,Non-Governmental Organizations,37.0140500000,-1.25664000000,Nairobi County,01010000002041F163CC814240EC866D8B321BF4BF
+129,Mowlem Health Centre,129,xWXdDXkBeiy,24272,,Dispensary,Ministry of Health,36.9065500000,-1.25683000000,Nairobi County,01010000002B1895D4097442405C1B2AC6F91BF4BF
+130,Dandora (EDARP) Clinic,130,FXzBJIjcAZ5,12911,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.8961400000,-1.25734000000,Nairobi County,010100000098512CB7B4724240033E3F8C101EF4BF
+131,Baraka Dispensary (Nairobi),131,tBD7EcDrqR8,12881,,Dispensary,Private Practice - Private Institution Academic,36.8580000000,-1.25756000000,Nairobi County,0101000000E7FBA9F1D26D4240C91F0C3CF71EF4BF
+132,Huruma Nursing Home and Maternity,132,eu57gimZRDs,12976,,Basic Health Centre,Private Practice - Private Institution Academic,36.8731762000,-1.25760020000,Nairobi County,0101000000A252DB3CC46F4240C5162763211FF4BF
+133,Dandora II Health Centre,133,DBROL4dIIzA,12912,,Basic Health Centre,Ministry of Health,36.8877500000,-1.25761000000,Nairobi County,01010000001283C0CAA171424001F6D1A92B1FF4BF
+134,Kariobangi Catholic Dispensary,134,KPrrw7aWcTb,18484,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.8799300000,-1.25775000000,Nairobi County,01010000007862D68BA170424039B4C876BE1FF4BF
+135,AIDS Health Care Foundation Parklands Clinic,135,Pt3AOtGccoJ,20736,,Medical Clinic,Private Practice - Private Institution Academic,36.8136800000,-1.25811000000,Nairobi County,010100000063B48EAA2668424037548CF33721F4BF
+136,Dr.S.N Karau &Associates Clinic,136,s4s5d2mLLNN,24482,,Medical Clinic,Private Practice - Medical Specialist,36.8136800000,-1.25811005000,Nairobi County,010100000063B48EAA26684240844DF8003821F4BF
+137,Dandora I Health Centre,137,zQh2n2JcWtl,12913,,Basic Health Centre,Ministry of Health,36.8838794000,-1.25835610000,Nairobi County,0101000000D64DCEF522714240BF8D83013A22F4BF
+138,CFW Clinic Kibagare,138,ob9Ar0JqTB4,21148,,Medical Clinic,Non-Governmental Organizations,36.7582600000,-1.25840000000,Nairobi County,0101000000B7EEE6A90E6142401895D4096822F4BF
+139,Premium health service,139,ThPYMKU1wtX,18744,,Medical Clinic,Private Practice - General Practitioner,36.8791700000,-1.25852000000,Nairobi County,0101000000EACF7EA4887042406DCA15DEE522F4BF
+140,Jalaram Medical Services,140,mifYMNSf2hN,21223,,Dispensary,Other Faith Based,36.8064300000,-1.25854000000,Nairobi County,0101000000B3412619396742405053CBD6FA22F4BF
+141,Kenya Kazi Services,141,H8cJnT1e9pv,24167,,Medical Clinic,Private Practice - Private Institution Academic,36.7954950000,-1.25865800000,Nairobi County,0101000000D690B8C7D26542408E942D927623F4BF
+142,Mathare Police Depot,142,bT26O2JfFSB,13078,,Dispensary,Ministry of Health,36.8495000000,-1.25904000000,Nairobi County,0101000000DBF97E6ABC6C424085B185200725F4BF
+143,Kariobangi EDARP,143,EEKdchSCqh9,18743,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.8795400000,-1.25922600000,Nairobi County,01010000000DC347C494704240C85D8429CA25F4BF
+144,LVCT Health  Kibagare,144,BTbKdGojrn2,23491,,VCT,Non-Governmental Organizations,36.7569880000,-1.25937500000,Nairobi County,010100000073BB97FBE4604240666666666626F4BF
+145,BHESP,145,QdXBJMDuLh5,22863,,Medical Clinic,Non-Governmental Organizations,36.8782872000,-1.25971000000,Nairobi County,01010000006A3F08B76B704240481B47ACC527F4BF
+146,Huruma (Ncck) Dispensary,146,n33t3QkAiUY,12972,,Primary care hospitals,Christian Health Association of Kenya,36.8748800000,-1.25988000000,Nairobi County,010100000055F65D11FC6F4240D5264EEE7728F4BF
+147,Gaimu Medical Clinic,147,SzvFJZ4MS4G,12946,,Medical Clinic,Private Practice - Private Institution Academic,36.8476000000,-1.26038000000,Nairobi County,0101000000780B24287E6C42400A850838842AF4BF
+148,Mathare 3A (EDARP),148,QyiacDkIae3,13075,,VCT,Kenya Episcopal Conference-Catholic Secretariat,36.8476000000,-1.26038000000,Nairobi County,0101000000780B24287E6C42400A850838842AF4BF
+149,Upendo Dispensary,149,JGRHNiNZ2zP,13243,,Dispensary,Ministry of Health,36.8476000000,-1.26038000000,Nairobi County,0101000000780B24287E6C42400A850838842AF4BF
+150,Wamunga Health Clinic,150,XioTp4dN5vI,13251,,Medical Clinic,Private Practice - Private Institution Academic,36.8873600000,-1.26066000000,Nairobi County,0101000000A8E33103957142407901F6D1A92BF4BF
+151,Wangu Medical Clinic,151,vO87AsCFATK,13252,,Medical Clinic,Private Practice - Private Institution Academic,36.9999000000,-1.26068000000,Nairobi County,01010000009CA223B9FC7F42405D8AABCABE2BF4BF
+152,Ruai Community Clinic,152,vJ58SdwMSeS,13170,,Medical Center,Private Practice - Private Institution Academic,36.9999000000,-1.26068000000,Nairobi County,01010000009CA223B9FC7F42405D8AABCABE2BF4BF
+153,Malibu Westlands,153,DE9gxWzRUAa,23868,,Pharmacy,Private Practice - General Practitioner,36.8040920000,-1.26076800000,Nairobi County,0101000000D47C957CEC664240467EFD101B2CF4BF
+154,Mathari Hospital,154,YaNze2Y77ss,13076,,Specialized & Tertiary Referral hospitals,Ministry of Health,36.8491200000,-1.26097000000,Nairobi County,01010000009430D3F6AF6C42403ECBF3E0EE2CF4BF
+155,Kemri -Cdc,155,lcaIKNONoVY,20146,,Medical Clinic,Non-Governmental Organizations,36.8489000000,-1.26100000000,Nairobi County,010100000086C954C1A86C4240931804560E2DF4BF
+156,Kipawa Medical Centre,156,edutjTNDNJ8,20095,,Medical Center,Private Practice - Nurse / Midwifery,37.0092800000,-1.26108000000,Nairobi County,0101000000E140481630814240213CDA38622DF4BF
+157,AAR Clinic Sarit Centre (Westlands),157,l0jxFYujGaJ,16796,,Medical Clinic,Private Practice - Private Institution Academic,36.8021100000,-1.26170000000,Nairobi County,0101000000B4E55C8AAB664240ABCFD556EC2FF4BF
+158,Aga Khan University Hospital(Njiru),158,CFp0FbzUd9l,21293,,Primary care hospitals,Private Practice - General Practitioner,36.9759900000,-1.26180000000,Nairobi County,01010000008D9C853DED7C42401C7C61325530F4BF
+159,Professor Wasuna Clinic,159,ejo8ilzrk3o,22673,,Medical Clinic,Private Practice - Medical Specialist,36.8178970000,-1.26223100000,Nairobi County,01010000008E3F51D9B068424041F50F221932F4BF
+160,Dr. Rachael Muthoni Rukaria,160,OR1bQo9Fz09,22148,,Medical Clinic,Private Practice - Medical Specialist,36.8178970000,-1.26223100000,Nairobi County,01010000008E3F51D9B068424041F50F221932F4BF
+161,Aga Khan Hospital,161,czNciMCk3z5,12867,,Secondary care hospitals,Private Practice - General Practitioner,36.8178970000,-1.26223100000,Nairobi County,01010000008E3F51D9B068424041F50F221932F4BF
+162,Chasmile Medical Clinic,162,Ykmtw0omEIG,24523,,Medical Clinic,Private Practice - Private Institution Academic,36.9199550000,-1.26237200000,Nairobi County,01010000005665DF15C1754240842D76FBAC32F4BF
+163,Doulos Youth Friendly And VCT (KCC),163,Ae24i77C2lF,20529,,VCT,Other Faith Based,36.8862500000,-1.26250000000,Nairobi County,01010000003D0AD7A370714240333333333333F4BF
+164,Lea Toto Clinic Kariobangi South,164,CZujy7aMz8a,13047,,Medical Clinic,Non-Governmental Organizations,36.8859000000,-1.26266000000,Nairobi County,010100000061C3D32B657142404E7ADFF8DA33F4BF
+165,Westlands Medical Centre,165,vggk3TQ8Kkz,19494,,Medical Center,Non-Governmental Organizations,36.8033200000,-1.26302000000,Nairobi County,0101000000821C9430D36642404C1AA3755435F4BF
+166,Maria Medical Clinic And Diadetic centre(Saika),166,Hqc0fRYZ9a9,20276,,Medical Clinic,Private Practice - Nurse / Midwifery,36.9252500000,-1.26319000000,Nairobi County,0101000000DF4F8D976E764240D925AAB70636F4BF
+167,Emerging Infectious Disease Center,167,d0QIvhhdL9z,21215,,Medical Clinic,Private Practice - General Practitioner,36.8118140000,-1.26343000000,Nairobi County,0101000000AC376A85E967424082902C600237F4BF
+168,Mp Shah Hospital (Westlands),168,H34vj3n3xhn,13098,,Primary care hospitals,Private Practice - Private Institution Academic,36.8118140000,-1.26343000000,Nairobi County,0101000000AC376A85E967424082902C600237F4BF
+169,Susamed Medical Clinic,169,tjRgJv8hWTF,17686,,Medical Clinic,Private Practice - Nurse / Midwifery,36.9240000000,-1.26349000000,Nairobi County,010100000083C0CAA1457642402C2B4D4A4137F4BF
+170,Focus Outreach Clinic,170,X9FDkVq9Kmu,19539,,Medical Clinic,Private Practice - Clinical Officer,36.7507800000,-1.26372000000,Nairobi County,0101000000D53E1D8F1960424063D174763238F4BF
+171,TF_MyChemist Oilibya Parklands,171,PUFELEAvlwg,23869,,Pharmacy,Private Practice - General Practitioner,36.8245130000,-1.26375400000,Nairobi County,01010000003D1059A489694240E606431D5638F4BF
+172,Upendo Medical Clinic,172,JmPkUYqanqc,19507,,Medical Center,Private Practice - General Practitioner,36.7504200000,-1.26377000000,Nairobi County,0101000000D52137C30D6042409CA73AE46638F4BF
+173,Abby Medical Clinic,173,S6hMZ4s9RZu,19484,,Medical Clinic,Private Practice - Private Institution Academic,36.7479500000,-1.26379000000,Nairobi County,010100000088855AD3BC5F42407F30F0DC7B38F4BF
+174,Kayole I Health Centre,174,wWnSMqLNWOk,13015,,Basic Health Centre,Ministry of Health,36.9187000000,-1.26407000000,Nairobi County,0101000000E86A2BF697754240EFACDD76A139F4BF
+175,Health Aid Chemist,175,bNMRleHtiax,23867,,Pharmacy,Private Practice - General Practitioner,36.8059260000,-1.26416900000,Nairobi County,0101000000807F4A952867424055DFF945093AF4BF
+176,Meridian Medical Centre (Kileleshwa),176,IDIznOCTMKr,19546,,Medical Center,Private Practice - General Practitioner,36.8026300000,-1.26425000000,Nairobi County,0101000000ED647094BC664240EE7C3F355E3AF4BF
+177,LiveWell Medical Clinic Kayole,177,oe9ga94XLz2,17687,,Medical Clinic,Private Practice - Clinical Officer,36.9173100000,-1.26442000000,Nairobi County,01010000009A25016A6A7542407B884677103BF4BF
+178,Avenue Hospital,178,AP5K7dv8G2z,12874,,Primary care hospitals,Private Practice - Private Institution Academic,36.8178970000,-1.26450800000,Nairobi County,01010000008E3F51D9B0684240637C98BD6C3BF4BF
+179,Getrudes Outreach Mathare,179,K6QdOgc9mSJ,22112,,Medical Clinic,Private Practice - Private Institution Academic,36.8449190000,-1.26451890000,Nairobi County,01010000006F62484E266C424045C88A2B783BF4BF
+180,Dan Pharmacy Kangemi,180,OxJOEyOOlMW,23870,,Pharmacy,Private Practice - General Practitioner,36.7493060000,-1.26459900000,Nairobi County,010100000029594E42E95F42406EDE3829CC3BF4BF
+181,Jemindas Nursing Home Limited,181,vw3AQKDxeLw,24597,,Nursing Homes,Private Practice - Private Institution Academic,36.7448000000,-1.26469000000,Nairobi County,0101000000C8073D9B555F42407940D9942B3CF4BF
+182,Santuary Rains Medical Centre-Kangemi,182,WQOPIb4oXES,24308,,Medical Center,Private Practice - Clinical Officer,36.7492780000,-1.26482000000,Nairobi County,01010000005FCE6C57E85F42403F3A75E5B33CF4BF
+183,HOYMAS-VCT,183,qOMMbIs7KOd,20063,,VCT,Non-Governmental Organizations,36.8367100000,-1.26498000000,Nairobi County,01010000003A1E3350196B42405A8121AB5B3DF4BF
+184,Mafra Clinic,184,clwIEnd34P5,19512,,Medical Clinic,Non-Governmental Organizations,36.7500900000,-1.26551000000,Nairobi County,01010000004087F9F202604240E42CEC69873FF4BF
+185,Aski Medical Clinic,185,m2Sc53M2fCg,12873,,Medical Clinic,Private Practice - Private Institution Academic,36.9221500000,-1.26552000000,Nairobi County,0101000000D200DE020976424056F146E6913FF4BF
+186,Precious Life Clinic,186,aqmdUjGgPqs,17996,,Medical Clinic,Private Practice - Clinical Officer,36.9867254000,-1.26578090000,Nairobi County,0101000000F69095044D7E4240536C1679A340F4BF
+187,Amurt Health Centre,187,ps5w3QhjIM7,12870,,Basic Health Centre,Non-Governmental Organizations,36.7377800000,-1.26580000000,Nairobi County,01010000004AD235936F5E4240C66D3480B740F4BF
+188,Rays International Clinic,188,MNGePYDixlt,17998,,Medical Clinic,Private Practice - Clinical Officer,36.8816100000,-1.26584000000,Nairobi County,0101000000CDE9B298D87042408D7F9F71E140F4BF
+189,Marie Stopes Clinic (Westlands),189,h2t7PuYv43Y,13067,,Medical Clinic,Non-Governmental Organizations,36.7511000000,-1.26584000000,Nairobi County,01010000004703780B246042408D7F9F71E140F4BF
+190,Sunbeam Medical Centre,190,mzvIYclCfXp,18281,,Medical Center,Private Practice - Private Institution Academic,36.7503400000,-1.26588900000,Nairobi County,0101000000B97020240B604240BADBF5D21441F4BF
+191,Lianas Clinic Health Centre,191,CsIp8huOrUz,13049,,Medical Clinic,Private Practice - Private Institution Academic,36.7522800000,-1.26619700000,Nairobi County,0101000000AAB706B64A60424068B114C95742F4BF
+192,Padens Medicare Centre,192,JXe9XqOiUzX,13137,,Medical Center,Private Practice - Private Institution Academic,36.7486750000,-1.26624300000,Nairobi County,0101000000992A1895D45F4240739F1C058842F4BF
+193,Blue House (AHF) Dispensary,193,Jzb6ev63ccp,12885,,Dispensary,Non-Governmental Organizations,36.8533900000,-1.26632000000,Nairobi County,0101000000E15D2EE23B6D4240DE54A4C2D842F4BF
+194,Crescent Medical Aid (Pangani),194,oGtbkGSP4pa,12900,,Medical Clinic,Non-Governmental Organizations,36.8380100000,-1.26636000000,Nairobi County,010100000048DC63E9436B4240A5660FB40243F4BF
+195,Mawamu Health Clinic,195,VB33VtjV3Hj,16798,,Medical Clinic,Private Practice - Private Institution Academic,36.7492780000,-1.26648200000,Nairobi County,01010000005FCE6C57E85F424011902FA18243F4BF
+196,Kayole II Sub-District Hospital,196,xvrQsmtAQsS,13016,,Primary care hospitals,Ministry of Health,36.9166800000,-1.26649000000,Nairobi County,0101000000DA722EC5557542406B60AB048B43F4BF
+197,SAPTA,197,lOuSf3QZaCQ,24251,,Dispensary,Non-Governmental Organizations,36.9158975000,-1.26655570000,Nairobi County,01010000007C7E18213C7542408AFFE0E8CF43F4BF
+198,Eagle Health Care Solution,198,y66tzv9tspm,21146,,Medical Clinic,Private Practice - Nurse / Midwifery,36.7486700000,-1.26663000000,Nairobi County,010100000087BF266BD45F4240A31EA2D11D44F4BF
+199,Baraka Medical Centre,199,rVs1hkdZSbB,19529,,Medical Center,Private Practice - General Practitioner,36.7503600000,-1.26675000000,Nairobi County,0101000000001DE6CB0B604240F853E3A59B44F4BF
+200,AIC Kijabe Hospital Nairobi Medical Centre,200,T2xcSqRm2Vu,23204,,Primary care hospitals,Private Practice - General Practitioner,36.7988779000,-1.26684120000,Nairobi County,0101000000A3FF8AA141664240389B3347FB44F4BF
+201,MSF- Green House Clinic,201,gZQwily9jnU,20049,,Medical Clinic,Non-Governmental Organizations,36.8514500000,-1.26686000000,Nairobi County,0101000000F0164850FC6C4240DBC4C9FD0E45F4BF
+202,St Vincent Catholic Clinic,202,dEPpmoSHG1v,13230,,Dispensary,Other Faith Based,36.8488400000,-1.26696000000,Nairobi County,0101000000B1C403CAA66C42404C7155D97745F4BF
+203,Suba Medical Centre,203,yrG1toZ39rc,20574,,Medical Clinic,Private Practice - Clinical Officer,36.9221400000,-1.26700000000,Nairobi County,0101000000AE2AFBAE087642401283C0CAA145F4BF
+204,Kangemi Health Centre,204,y42Usl6TdyJ,13001,,Basic Health Centre,Ministry of Health,36.7492000000,-1.26710000000,Nairobi County,0101000000E4141DC9E55F4240832F4CA60A46F4BF
+205,Kenya AID Vaccine Initiative (Kavi),205,MDU0KrsnsAS,13013,,Dispensary,Public Institution - Academic,36.7492060000,-1.26719200000,Nairobi County,0101000000C6FB71FBE55F42409A0B5C1E6B46F4BF
+206,Pangani Clinic (City Council of Nairobi),206,dwWrJGEreMc,13138,,Dispensary,Ministry of Health,36.8381500000,-1.26741000000,Nairobi County,01010000003A92CB7F486B424048F949B54F47F4BF
+207,St Patrick Health Care Centre,207,L3W78DWaVfN,13222,,Medical Clinic,Private Practice - Private Institution Academic,36.9182900000,-1.26742000000,Nairobi County,0101000000361FD7868A754240BABDA4315A47F4BF
+208,KOKI Medical Clinic,208,ev8wkfifBPg,24524,,Medical Clinic,Private Practice - Private Institution Academic,36.9221300000,-1.26822400000,Nairobi County,01010000008B54185B087642407009C03FA54AF4BF
+209,St Teresa's Parish Dispensary,209,n5BCxrg0imy,13225,,Dispensary,Other Faith Based,36.8482200000,-1.26826000000,Nairobi County,010100000014E81379926C424009336DFFCA4AF4BF
+210,Kariobangi South Clinic,210,tlOLq1sNrig,17434,,Medical Clinic,Ministry of Health,36.8829400000,-1.26826000000,Nairobi County,0101000000452A8C2D0471424009336DFFCA4AF4BF
+211,Arrow Web Maternity and Nursing Home,211,gJ6EAr5MFz9,12872,,Comprehensive health Centre,Private Practice - General Practitioner,36.9211000000,-1.26843000000,Nairobi County,01010000003D2CD49AE6754240963E74417D4BF4BF
+212,Maria Maternity and Nursing Home,212,tKrbbrbKFeR,13063,,Basic Health Centre,Private Practice - General Practitioner,36.9211000000,-1.26843000000,Nairobi County,01010000003D2CD49AE6754240963E74417D4BF4BF
+213,Jamii Medical Clinic,213,eWfNhQ9xcqb,24144,,Medical Clinic,Private Practice - Private Company,36.8837673000,-1.26861340000,Nairobi County,01010000001A6371491F714240224784903D4CF4BF
+214,Uthiru Muthua Dispensary,214,MwFhJW2w7yH,18628,,Dispensary,Ministry of Health,36.7183100000,-1.26870000000,Nairobi County,0101000000E4310395F15B424094F6065F984CF4BF
+215,Ruai (EDARP) Clinic,215,MEh9RhjHr40,13169,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.9909820000,-1.26920200000,Nairobi County,01010000005C76887FD87E4240E048A0C1A64EF4BF
+216,Diwopa Health Centre,216,j9ewGdCa9TX,12917,,Basic Health Centre,Kenya Episcopal Conference-Catholic Secretariat,36.9142500000,-1.26945000000,Nairobi County,01010000001B2FDD2406754240E4839ECDAA4FF4BF
+217,Getrudes Children Hospital Pangani,217,Qkp5sifwjyg,19314,,Medical Clinic,Private Practice - Private Institution Academic,36.8398900000,-1.26966000000,Nairobi County,0101000000641EF983816B424038A110018750F4BF
+218,Marie Stopes Clinic (Pangani),218,ovdTGUqIhcH,13066,,Medical Center,Non-Governmental Organizations,36.8390300000,-1.26971000000,Nairobi County,0101000000732EC555656B42407077D66EBB50F4BF
+219,Marie Stopes Nursing Home (Eastleigh),219,gfMG2L5HUVF,13068,,Basic Health Centre,Non-Governmental Organizations,36.8482400000,-1.26972000000,Nairobi County,01010000005B94D920936C4240E23B31EBC550F4BF
+220,Radiant Pangani Hospital,220,ICsoiQdDS5P,13158,,Primary care hospitals,Private Practice - Private Institution Academic,36.8393000000,-1.26979000000,Nairobi County,010100000033C4B12E6E6B4240FE9AAC510F51F4BF
+221,Sapta,221,FmnrkSqRdYI,20402,,Medical Clinic,Non-Governmental Organizations,36.8418300000,-1.26984000000,Nairobi County,01010000005665DF15C16B4240377172BF4351F4BF
+222,Guru Nanak Hospital,222,K7r7jBykuLt,12965,,Primary care hospitals,Private Practice - Private Institution Academic,36.8212000000,-1.26985000000,Nairobi County,0101000000D3BCE3141D694240A835CD3B4E51F4BF
+223,Lad Nan Hospital,223,tjlTEnLIVeO,19316,,Primary care hospitals,Private Practice - Private Institution Academic,36.8408200000,-1.26986000000,Nairobi County,01010000004FE960FD9F6B42401AFA27B85851F4BF
+224,Kayole Hospital,224,xwhhhUodw40,13014,,Primary care hospitals,Private Practice - Private Institution Academic,36.9182500000,-1.27015000000,Nairobi County,0101000000A8C64B3789754240FB3A70CE8852F4BF
+225,St Joseph Nursing Home,225,RjJH4tax8Po,17933,,Comprehensive health Centre,Kenya Episcopal Conference-Catholic Secretariat,36.8459200000,-1.27049000000,Nairobi County,01010000002384471B476C424015527E52ED53F4BF
+226,CONI Health Centre,226,UYTG0f8yLqc,12958,,Basic Health Centre,Private Practice - Nurse / Midwifery,36.9137200000,-1.27049000000,Nairobi County,0101000000BED9E6C6F474424015527E52ED53F4BF
+227,St Raphael's Clinic,227,yE0YJfPxCUc,17683,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.9489600000,-1.27078000000,Nairobi County,0101000000289B728577794240F792C6681D55F4BF
+228,Makkah Nursing Home,228,IDj8oTQDxi6,13059,,Basic Health Centre,Private Practice - Private Institution Academic,36.8470000000,-1.27085000000,Nairobi County,010100000023DBF97E6A6C424013F241CF6655F4BF
+229,Woodstreet Nursing Home,229,gcaeZjSuNnu,13260,,Basic Health Centre,Private Practice - Private Institution Academic,36.8470000000,-1.27085000000,Nairobi County,010100000023DBF97E6A6C424013F241CF6655F4BF
+230,Adopta Life Foundation (Ruai),230,mWrd789kQhB,21294,,Medical Clinic,Private Practice - Nurse / Midwifery,36.9972800000,-1.27097000000,Nairobi County,01010000003A7AFCDEA67F4240672783A3E455F4BF
+231,St Joseph W Dispensary (Westlands),231,K9f6OavyAsf,13209,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.7391000000,-1.27104000000,Nairobi County,01010000009F3C2CD49A5E42408386FE092E56F4BF
+232,Al Amin Nursing Home,232,cgtpPBvYqYq,18769,,Comprehensive health Centre,Private Practice - Clinical Officer,36.8454500000,-1.27144000000,Nairobi County,01010000009C33A2B4376C424047382D78D157F4BF
+233,Dorkcare Nursing Home,233,QVQdz5mXprp,12921,,Primary care hospitals,Private Practice - Private Institution Academic,36.8493300000,-1.27146000000,Nairobi County,01010000007FC16ED8B66C42402BC1E270E657F4BF
+234,St Florence Medical Care Health Centre,234,ckUFyU2n7Hh,13201,,Medical Center,Private Practice - Private Institution Academic,36.7429700000,-1.27167000000,Nairobi County,01010000005EF415A4195F42407FDE54A4C258F4BF
+235,Eastleigh Health Centre,235,OkCML3CEtNi,12930,,Basic Health Centre,Ministry of Health,36.8508700000,-1.27175000000,Nairobi County,0101000000E292E34EE96C42400C022B871659F4BF
+236,Juja Road Hospital,236,HWJjTSoITik,19318,,Primary care hospitals,Private Practice - Private Institution Academic,36.8402600000,-1.27205000000,Nairobi County,01010000008811C2A38D6B42405F07CE19515AF4BF
+237,Cidi Kayole Clinic,237,zhJ663HYnIc,12896,,Dispensary,Other Faith Based,36.9163300000,-1.27215000000,Nairobi County,0101000000FE2B2B4D4A754240D0B359F5B95AF4BF
+238,Ngara Mat Clinic,238,jWBbRsvQBLr,23786,,Medical Clinic,Private Practice - General Practitioner,36.8317230000,-1.27282150000,Nairobi County,01010000005E2A36E6756A4240A454C2137A5DF4BF
+239,Imperial Clinic,239,m3s1qBaQ54c,12983,,Medical Clinic,Private Practice - Private Institution Academic,36.8291000000,-1.27334000000,Nairobi County,01010000008A8EE4F21F6A4240AB048BC3995FF4BF
+240,Dadas VCT,240,gkXRF2xfnOh,22074,,VCT,Private Practice - General Practitioner,36.7006230000,-1.27341800000,Nairobi County,0101000000A7E9B303AE5942402234828DEB5FF4BF
+241,Parkroad Nursing Home (Nairobi),241,oiOrwY2pxp1,13139,,Comprehensive health Centre,Private Practice - Private Institution Academic,36.8319300000,-1.27342000000,Nairobi County,0101000000D847A7AE7C6A4240392861A6ED5FF4BF
+242,Ngara Health Centre (City Council of Nairobi),242,HUsIFF3CxlZ,13122,,Basic Health Centre,Ministry of Health,36.8313400000,-1.27346000000,Nairobi County,0101000000A6ED5F59696A4240003ACC971760F4BF
+243,Iran Medical Clinic,243,OT1wDrUItuH,19421,,Medical Clinic,Private Practice - General Practitioner,36.8322000000,-1.27378000000,Nairobi County,010100000098DD9387856A424036C824236761F4BF
+244,Andalus Medical Centre,244,FBI3vAGf47E,18770,,Medical Clinic,Private Practice - Private Institution Academic,36.8456300000,-1.27393000000,Nairobi County,01010000001C42959A3D6C4240E04A766C0462F4BF
+245,Chandaria Health Centre,245,CckiDj0RzXx,12893,,Basic Health Centre,Ministry of Health,36.6911900000,-1.27396000000,Nairobi County,01010000003FA9F6E978584240359886E12362F4BF
+246,Abandoned Child Care,246,SmORD2BlOtY,12864,,Medical Clinic,Non-Governmental Organizations,36.6911900000,-1.27396000000,Nairobi County,01010000003FA9F6E978584240359886E12362F4BF
+247,Emmanuel Medical Centre,247,NaD1FLehrEC,18893,,Medical Center,Private Practice - Nurse / Midwifery,36.8984600000,-1.27412000000,Nairobi County,0101000000D061BEBC0073424050DF32A7CB62F4BF
+248,Hayat Medical Clinic,248,li2d1is2Hhu,22117,,Primary care hospitals,Private Practice - General Practitioner,36.8442440000,-1.27413950000,Nairobi County,010100000010ECF82F106C42402EABB019E062F4BF
+249,Mama Lucy Kibaki Hospital -Embakasi,249,EmMu340uBVZ,17411,,Primary care hospitals,Ministry of Health,36.8984300000,-1.27416000000,Nairobi County,010100000065DF15C1FF72424017F19D98F562F4BF
+250,Umoja III Medical Centre,250,kizpJSMBofw,20187,,Medical Clinic,Private Practice - Clinical Officer,36.8895000000,-1.27424000000,Nairobi County,010100000060E5D022DB714240A514747B4963F4BF
+251,Lithi Clinic,251,G8CyKyzJRFd,18611,,Medical Clinic,Private Practice - General Practitioner,36.8708100000,-1.27433000000,Nairobi County,0101000000CF83BBB3766F4240A4FCA4DAA763F4BF
+252,Silent Hill Medical Clinic,252,hVa0tbVoYNJ,24520,,Medical Clinic,Private Practice - Private Institution Academic,36.8904359000,-1.27449110000,Nairobi County,010100000098D7B6CDF971424066B098C75064F4BF
+253,Special Treatment Clinic,253,ZLiupnhoyzT,13193,,Medical Clinic,Private Practice - General Practitioner,36.8313700000,-1.27457000000,Nairobi County,0101000000117008556A6A42404D672783A364F4BF
+254,Canaan Health Providers (Nairobi),254,zYhuIBE2kez,12890,,Medical Clinic,Private Practice - Private Institution Academic,36.8313700000,-1.27457000000,Nairobi County,0101000000117008556A6A42404D672783A364F4BF
+255,Bodaki Medical Clinic,255,F3iyXRgcsHl,18805,,Medical Clinic,Private Practice - Nurse / Midwifery,36.7554966000,-1.27533800000,Nairobi County,01010000009E9ED21CB46042406A8995D1C867F4BF
+256,Angaza VCT,256,TFLMO3MTOsx,18272,,Medical Center,Non-Governmental Organizations,36.9107500000,-1.27541000000,Nairobi County,01010000007F6ABC74937442409CDCEF501468F4BF
+257,Mwera Medical Clinic,257,vbxTLwVtUcy,19442,,Medical Clinic,Private Practice - Clinical Officer,36.9104600000,-1.27555000000,Nairobi County,010100000078280AF489744240D49AE61DA768F4BF
+258,Kayole Outpatient,258,CWIk1PNvyUe,24516,,Medical Clinic,Private Practice - Clinical Officer,36.9111201000,-1.27556720000,Nairobi County,0101000000371D5C959F744240CB9AFD26B968F4BF
+259,Salama Nursing Home,259,gZMzFTplvUJ,13175,,Comprehensive health Centre,Private Practice - General Practitioner,36.8514800000,-1.27587000000,Nairobi County,01010000005B99F04BFD6C42400B293FA9F669F4BF
+260,Special Provision Clinic,260,PYVdNPyx7jw,13192,,Medical Clinic,Non-Governmental Organizations,36.8959500000,-1.27597000000,Nairobi County,0101000000F46C567DAE7242407CD5CA845F6AF4BF
+261,Madina Nursing Home,261,QnuXu1HTR8X,13055,,Nursing Homes,Private Practice - Private Institution Academic,36.8506600000,-1.27605000000,Nairobi County,0101000000F701486DE26C424009F9A067B36AF4BF
+262,Phadam Hospital Nasra,262,GXjd4TP2jdN,24014,,Primary care hospitals,Private Practice - Medical Specialist,36.9019993000,-1.27611800000,Nairobi County,0101000000E8418BB6747342400F643DB5FA6AF4BF
+263,SAPTA KAYOLE,263,eyC5CfHa6FP,23635,,Medical Center,Non-Governmental Organizations,36.9099900000,-1.27612345000,Nairobi County,0101000000F1D7648D7A744240008A366C006BF4BF
+264,Dr Muasya Medical Clinic,264,iw2QKTEpJLH,12927,,Medical Center,Private Practice - General Practitioner,36.8133700000,-1.27623000000,Nairobi County,010100000015C616821C68424008C90226706BF4BF
+265,State House Clinic,265,kWtmqkk8n2F,13231,,Medical Clinic,Private Practice - General Practitioner,36.8033700000,-1.27623000000,Nairobi County,0101000000344B02D4D466424008C90226706BF4BF
+266,Maisha House (Ngara),266,Rc7MMPnZZtn,19308,,VCT,Non-Governmental Organizations,36.8240500000,-1.27640000000,Nairobi County,010100000068226C787A69424095D40968226CF4BF
+267,Kings Cross Medical Clinic,267,tleldxlcpio,19436,,Medical Clinic,Private Practice - Nurse / Midwifery,36.9165000000,-1.27666000000,Nairobi County,01010000005A643BDF4F75424021C84109336DF4BF
+268,IOM Wellness Clinic,268,y8Mv4FOBkUn,19471,,Medical Clinic,Non-Governmental Organizations,36.8528700000,-1.27681000000,Nairobi County,0101000000A9DE1AD82A6D4240CB4A9352D06DF4BF
+269,Ishtar MSM,269,UDzeFplMQrT,19311,,Medical Clinic,Non-Governmental Organizations,36.8281700000,-1.27692000000,Nairobi County,0101000000A0C37C79016A4240AEBB79AA436EF4BF
+270,Ishtar Dice,270,nP68IezLbLY,19311,,Medical Clinic,Non-Governmental Organizations,36.8281700000,-1.27692000000,Nairobi County,0101000000A0C37C79016A4240AEBB79AA436EF4BF
+271,Burhani Nursing Home,271,KSgrtxl3FGy,24243,,Basic Health Centre,Private Practice- Pharmacist,36.8413170000,-1.27693000000,Nairobi County,0101000000CF488446B06B42401F80D4264E6EF4BF
+272,St Barkita Dispensary Utawala,272,AYsyVI9BxYn,17723,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.9753300000,-1.27760000000,Nairobi County,010100000062670A9DD77C4240E2E995B20C71F4BF
+273,Darushif Medical Clinic,273,Uq8ELN6b34h,18276,,Medical Center,Private Practice - Clinical Officer,36.8920200000,-1.27798000000,Nairobi County,010100000060B01BB62D724240C2120F289B72F4BF
+274,FairView Medical Centre,274,Dom2cnK42ML,22977,,Medical Clinic,Private Practice - Nurse / Midwifery,36.9116097000,-1.27801650000,Nairobi County,0101000000B21B6CA0AF74424062F9F36DC172F4BF
+275,Riverdale Medical Centre,275,zZ6cMBB4laV,24791,,Medical Center,Private Practice - General Practitioner,36.7638300000,-1.27863830000,Nairobi County,010100000012DA722EC5614240CC9B1E6F4D75F4BF
+276,St Bridget's Mother & Child,276,BOFAWJzI9Lj,13199,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.8399300000,-1.27868000000,Nairobi County,0101000000F37684D3826B4240DAC9E0287975F4BF
+277,Waithaka Health Centre,277,HK7E1p1vij4,13249,,Basic Health Centre,Ministry of Health,36.7151600000,-1.27885000000,Nairobi County,010100000024B4E55C8A5B424067D5E76A2B76F4BF
+278,Kariokor Clinic,278,XnsX0040BLp,13007,,Medical Clinic,Private Practice - General Practitioner,36.8366100000,-1.27890000000,Nairobi County,0101000000D7C05609166B42409FABADD85F76F4BF
+279,Agha Khan clinic ( Eastleigh),279,kMgbp7ZqwoR,20236,,Medical Clinic,Private Practice - Private Institution Academic,36.8488700000,-1.27911000000,Nairobi County,01010000001B47ACC5A76C4240F3C81F0C3C77F4BF
+280,University of Nairobi Dispensary,280,kZ8MryqHonL,13242,,Dispensary,Public Institution - Parastatal,36.8094800000,-1.27918100000,Nairobi County,01010000000F62670A9D6742401AA20A7F8677F4BF
+281,Alliance Medical Centre,281,fJoTJIANnAv,17847,,Medical Center,Private Practice - Private Institution Academic,36.8503500000,-1.27943000000,Nairobi County,0101000000A913D044D86C42402A5778978B78F4BF
+282,Melchezedek Hospital,282,O8JiuIlnJqW,13086,,Primary care hospitals,Private Practice - Private Institution Academic,36.7554000000,-1.27974000000,Nairobi County,0101000000FFB27BF2B0604240EF2076A6D079F4BF
+283,Nairobi East Hospital,283,S4BgZt5Y5DK,20264,,Primary care hospitals,Private Practice - General Practitioner,36.8478000000,-1.27978000000,Nairobi County,01010000003FC6DCB5846C4240B532E197FA79F4BF
+284,Pumwani Maternity Hospital,284,DAfqnwB2Uhh,13156,,Primary care hospitals,Ministry of Health,36.8455200000,-1.28028000000,Nairobi County,0101000000950ED6FF396C4240EB909BE1067CF4BF
+285,Umoja Hospital,285,ej188JQqIiu,13241,,Primary care hospitals,Private Practice - Private Institution Academic,36.8912000000,-1.28031000000,Nairobi County,0101000000FC1873D71272424040DEAB56267CF4BF
+286,St Mary's Medical Clinic,286,bUZiBTpjS2N,13215,,Medical Clinic,Private Practice - Private Institution Academic,36.8912000000,-1.28031000000,Kiambu County,0101000000FC1873D71272424040DEAB56267CF4BF
+287,Emmaus Nursing Home,287,eTyvnljzhoG,12936,,Comprehensive health Centre,Private Practice - Private Institution Academic,36.8912000000,-1.28031000000,Nairobi County,0101000000FC1873D71272424040DEAB56267CF4BF
+288,Provide Inter' Mutindwa Umoja Clinic,288,FloEWlDD416,12971,,Medical Clinic,Non-Governmental Organizations,36.8912000000,-1.28031000000,Nairobi County,0101000000FC1873D71272424040DEAB56267CF4BF
+289,Victory Hospital,289,KAJd0OLnMeq,13247,,Primary care hospitals,Private Practice - Private Institution Academic,36.8912000000,-1.28031000000,Nairobi County,0101000000FC1873D71272424040DEAB56267CF4BF
+290,Starehe Boys Centre Medical Clinic,290,yChfajTMxv1,19422,,Dispensary,Public Institution - Academic,36.8393600000,-1.28038000000,Nairobi County,010100000008C90226706B42405C3D27BD6F7CF4BF
+291,Nairobi Outpatient Centre,291,irwLEN2bSMG,13111,,Medical Center,Private Practice - Private Institution Academic,36.8185000000,-1.28052000000,Nairobi County,010100000054E3A59BC468424094FB1D8A027DF4BF
+292,Diani Dispensary,292,AwQsN4Q0fRw,12916,,Medical Clinic,Private Practice - Private Institution Academic,36.8595000000,-1.28053000000,Nairobi County,0101000000BC749318046E424005C078060D7DF4BF
+293,Edna Maternity,293,ab11bPaCfQe,12934,,Basic Health Centre,Private Practice - Private Institution Academic,36.8595000000,-1.28053000000,Nairobi County,0101000000BC749318046E424005C078060D7DF4BF
+294,Unity Nursing Home,294,KPSt7jGL6KE,18334,,Comprehensive health Centre,Private Practice - General Practitioner,36.8986600000,-1.28063000000,Nairobi County,0101000000971C774A07734240766C04E2757DF4BF
+295,Gertrudes Othaya Road Dispensary,295,mZSwme44h7b,12951,,Medical Clinic,Private Practice - Private Institution Academic,36.7678000000,-1.28101000000,Nairobi County,010100000035EF38454762424057957D57047FF4BF
+296,Mihang'o Community Dispensary,296,AgXw85ObcL2,23373,,Dispensary,Ministry of Health,36.9468859000,-1.28106060000,Nairobi County,010100000092C5A28E33794240301B5366397FF4BF
+297,Gachui Medical Centre,297,bUrvl2BcNcx,21288,,Medical Center,Private Practice - General Practitioner,36.6945100000,-1.28115000000,Nairobi County,01010000005B5F24B4E55842408F537424977FF4BF
+298,St.Anjelmo  Medical Clinic,298,Ea1n66c3Vqg,20080,,Medical Center,Private Practice - General Practitioner,36.8964800000,-1.28131000000,Nairobi County,010100000050C24CDBBF724240AA9A20EA3E80F4BF
+299,Jacaranda Special School,299,FJ79uJDyiXX,18488,,Dispensary,Public Institution - Academic,36.7865700000,-1.28133000000,Nairobi County,0101000000E2016553AE6442408E23D6E25380F4BF
+300,Umoja VCT Centre Stand Alone,300,rfvV4acbTH3,18233,,VCT,Non-Governmental Organizations,36.8963200000,-1.28142000000,Nairobi County,010100000018601F9DBA7242408D0B0742B280F4BF
+301,Mother & Child Hospital,301,EDaq176ZPhK,13096,,Primary care hospitals,Private Practice - Private Institution Academic,36.8507200000,-1.28175000000,Nairobi County,0101000000CD069964E46C4240355EBA490C82F4BF
+302,Jamaa Mission Hospital,302,FvG8gxqqOvf,12984,,Primary care hospitals,Kenya Episcopal Conference-Catholic Secretariat,36.8733300000,-1.28186000000,Nairobi County,0101000000CF4E0647C96F424018CFA0A17F82F4BF
+303,RADIANT GROUP OF HOSPITALS,303,Ljg0MU1e0bY,22976,,Primary care hospitals,Private Practice - General Practitioner,36.8954989000,-1.28190880000,Nairobi County,01010000004F8D3CB59F724240104647CDB282F4BF
+304,St Maurice Medical Services,304,fKcdls2wzxr,19438,,Medical Center,Private Practice - Nurse / Midwifery,36.9021800000,-1.28193000000,Nairobi County,01010000007A8D5DA27A734240342E1C08C982F4BF
+305,Lagos Road Dispensary,305,Oo381uXXfit,13039,,Dispensary,Ministry of Health,36.8244300000,-1.28198000000,Nairobi County,0101000000AFEB17EC866942406C04E275FD82F4BF
+306,Three Bells Medical Clinic,306,abaZxUBExdQ,24435,,Dispensary,Private Practice - Clinical Officer,36.8892396000,-1.28206260000,Nairobi County,010100000071276C9AD2714240B1CBA6125483F4BF
+307,Access Afya Kiambiu,307,Qc0PIJ61Hil,23850,,Medical Clinic,Private Practice - Clinical Officer,36.8634400000,-1.28221000000,Nairobi County,01010000007407B133856E4240A4AA09A2EE83F4BF
+308,St Francis Catholic Dispensary,308,AnCZxFluGQo,24743,,Dispensary,Christian Health Association of Kenya,36.7552202000,-1.28221080000,Nairobi County,0101000000A823360EAB6042407A3FC978EF83F4BF
+309,Umoja Health Centre,309,zGAtALrJYYg,13240,,Basic Health Centre,Ministry of Health,36.8875800000,-1.28223000000,Nairobi County,0101000000B64AB0389C7142408733BF9A0384F4BF
+310,Biafra Lions Clinic,310,PaKMtCzMDnk,12883,,Medical Clinic,Private Practice - General Practitioner,36.8485000000,-1.28234000000,Nairobi County,0101000000F853E3A59B6C42406AA4A5F27684F4BF
+311,St John Community Centre,311,RxZB0KhM7GK,18408,,Dispensary,Other Faith Based,36.8454500000,-1.28242000000,Nairobi County,01010000009C33A2B4376C4240F7C77BD5CA84F4BF
+312,Aga Khan University Hospital (Buruburu),312,Vpj6plA6iQa,12868,,Primary care hospitals,Private Practice - Private Institution Academic,36.8796000000,-1.28254000000,Nairobi County,0101000000E3C798BB967042404CFDBCA94885F4BF
+313,Arrow Web Clinic,313,ag2noKmVjqw,22239,,Medical Clinic,Private Practice - Private Company,36.8990840000,-1.28282500000,Nairobi County,0101000000AE2D3C2F15734240F5DBD7817386F4BF
+314,Odeon Medical Centre,314,EKl28PUuEGW,19492,,Medical Center,Private Practice - General Practitioner,36.8249000000,-1.28290000000,Nairobi County,0101000000363CBD5296694240499D8026C286F4BF
+315,Phadam Hospital Umoja,315,A1howrctPXW,24013,,Primary care hospitals,Private Practice - Private Institution Academic,36.8947301000,-1.28326580000,Nairobi County,0101000000971F138486724240553431B84188F4BF
+316,Just Medical Limited,316,jCdM4SCKfFr,18407,,Medical Clinic,Private Practice - General Practitioner,36.8800600000,-1.28338000000,Nairobi County,010100000046425BCEA57042409B728577B988F4BF
+317,City Health Limited,317,dUhQCoXED9R,23508,,Medical Clinic,Private Practice - Medical Specialist,36.8248849000,-1.28339980000,Nairobi County,01010000006C3B12D49569424049168B3ACE88F4BF
+318,AAR Healthcare Buruburu,318,G39oy4vmOnb,23611,,Medical Clinic,Private Practice - General Practitioner,36.8794210000,-1.28347600000,Nairobi County,0101000000333509DE90704240DF3653211E89F4BF
+319,Maringo Clinic,319,gAKWWlzco2t,13069,,Medical Clinic,Private Practice - General Practitioner,36.8800200000,-1.28351000000,Nairobi County,0101000000B8E9CF7EA4704240616C21C84189F4BF
+320,Nile Medical Care,320,aqjv7SbfKav,19479,,Medical Clinic,Private Practice - Clinical Officer,36.6890900000,-1.28363000000,Nairobi County,01010000001500E31934584240B6A1629CBF89F4BF
+321,St Veronica EDARP,321,jNY1DdzbBDr,18409,,Dispensary,Other Faith Based,36.8552000000,-1.28387000000,Nairobi County,010100000005C58F31776D42405F0CE544BB8AF4BF
+322,Riruta Health Centre,322,GOxptySBE5j,13165,,Basic Health Centre,Ministry of Health,36.7405200000,-1.28405000000,Nairobi County,01010000005704FF5BC95E42405DDC4603788BF4BF
+323,Orthodox Dispensary,323,grMnXpkx5MQ,13135,,Dispensary,Christian Health Association of Kenya,36.7377800000,-1.28418000000,Nairobi County,01010000004AD235936F5E424024D6E253008CF4BF
+324,AAR City Centre Clinic,324,DX1UYTb1erh,12861,,Medical Clinic,Private Practice - Private Institution Academic,36.8213500000,-1.28443000000,Nairobi County,0101000000E9482EFF216942403E05C078068DF4BF
+325,Nairobi County Beyond Zero Clinic,325,G8BsIOZj171,22030,,Dispensary,Ministry of Health,36.8213580000,-1.28443100000,Nairobi County,01010000006B274A42226942404A7F2F85078DF4BF
+326,Post Bank Clinic,326,nrgNsmhEL9H,20067,,Medical Clinic,Private Practice - General Practitioner,36.8214100000,-1.28454000000,Nairobi County,0101000000BE4D7FF6236942402176A6D0798DF4BF
+327,Meridian Medical Centre (Nation House),327,VEde2ZaEcYZ,20104,,Medical Clinic,Private Practice - General Practitioner,36.8214400000,-1.28463000000,Nairobi County,010100000029D027F224694240205ED72FD88DF4BF
+328,Ministry of Education (Moest) VCT Centre,328,V7timXgWNyd,13092,,VCT,Public Institution - Academic,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+329,Nairobi Deaf (Liverpool),329,vA54UoSW4FT,13108,,Medical Center,Non-Governmental Organizations,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+330,Crescent Medical Aid (Jamia) Murang'a Road,330,fLVoXRdM7eZ,12899,,Medical Clinic,Non-Governmental Organizations,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+331,Community Health Foundation,331,GsteDv3IptG,12901,,Dispensary,Ministry of Health,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+332,Sex Workers Operation Project (Swop),332,MIJ54qWI6ky,13180,,Medical Clinic,Non-Governmental Organizations,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+333,FHOK Family Care (Phoenix),333,Lcdw1b9sCH9,12939,,Medical Clinic,Non-Governmental Organizations,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+334,Medicare Clinic,334,kiSV5dgLWof,13083,,Medical Clinic,Private Practice - Private Institution Academic,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+335,Marie Stopes Clinic (Kencom),335,E3Mdlz1DtVG,13065,,Medical Clinic,Non-Governmental Organizations,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+336,Rural Aid VCT,336,PlkUJasIbbg,13174,,VCT,Ministry of Health,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+337,Single Mothers Association of Kenya (Smak),337,gKBBCMQO9qF,13187,,VCT,Ministry of Health,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+338,Teachers Service Commission,338,FVhoeaVRKH6,13235,,VCT,Public Institution - Academic,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+339,Kie/Kapc,339,JtYLYubVzeA,13031,,VCT,Public Institution - Academic,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+340,Supkem (Liverpool),340,bFeu0eexj5o,13233,,VCT,Non-Governmental Organizations,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+341,St Johns Ambulance,341,lUxR6nLNCsw,13206,,VCT,Non-Governmental Organizations,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+342,Ribeiro Clinic,342,D196r2OV51e,13164,,Medical Center,Private Practice - Private Institution Academic,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+343,Naioth Medical Clinic,343,h3mM7cLqh8Q,13107,,Medical Center,Private Practice - Private Institution Academic,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+344,Family Health Options Ribeiro,344,iiBFVUM2dwM,12940,,Medical Center,Non-Governmental Organizations,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+345,Transcom Medical Services,345,rFORKC8wZEi,13237,,Medical Center,Private Practice - Private Institution Academic,36.8210000000,-1.28520000000,Nairobi County,01010000000C022B8716694240711B0DE02D90F4BF
+346,Pumwani Majengo Dispensary,346,qNJkz8G7pfV,13155,,Dispensary,Ministry of Health,36.8446100000,-1.28527000000,Nairobi County,0101000000F2EF332E1C6C42408D7A88467790F4BF
+347,Equity Afia Kawangware,347,U8YOUxpPI5D,22791,,Medical Clinic,Private Practice - General Practitioner,36.7433750000,-1.28545000000,Nairobi County,0101000000FED478E9265F42408C4AEA043491F4BF
+348,State House Dispensary (Nairobi),348,W7qp0d5YUft,13232,,Dispensary,Ministry of Health,36.8012000000,-1.28558000000,Nairobi County,010100000011C7BAB88D66424052448655BC91F4BF
+349,Mercy Medical Centre,349,YWRGBTI9nfS,19319,,Medical Clinic,Private Practice - General Practitioner,36.8219800000,-1.28562000000,Nairobi County,0101000000A9FB00A4366942401956F146E691F4BF
+350,Family Care Medical Centre (Phoenix),350,gyvG1OyFH07,13140,,Medical Center,Non-Governmental Organizations,36.8213600000,-1.28567000000,Nairobi County,01010000000C1F115322694240522CB7B41A92F4BF
+351,National Spinal Injury Hospital,351,Y1w6NFdWMq1,13194,,Specialized & Tertiary Referral hospitals,Ministry of Health,36.7933900000,-1.28567000000,Nairobi County,01010000009A7CB3CD8D654240522CB7B41A92F4BF
+352,Westons Pharmacy (City Hall),352,LzRcIVuIN4N,23863,,Pharmacy,Private Practice - Private Institution Academic,36.8206533000,-1.28602420000,Nairobi County,01010000005F6DD62A0B69424040D58D1C8E93F4BF
+353,Frontline Medical Consultands Limited,353,yn0lkVS2Dzx,24450,,Medical Center,Private Practice - Medical Specialist,36.8081529000,-1.28609530000,Nairobi County,010100000073D5E18D7167424002A150AAD893F4BF
+354,Kenya Airwaysmedical Centre,354,VL6fs4Cx1jN,13021,,Medical Center,Private Practice - Medical Specialist,36.8237800000,-1.28611000000,Nairobi County,0101000000A88C7F9F71694240DDEF5014E893F4BF
+355,Hono Clinic,355,FJlbjDibQIT,12969,,Medical Clinic,Private Practice - General Practitioner,36.8710600000,-1.28675000000,Nairobi County,0101000000486DE2E47E6F42404A0C022B8796F4BF
+356,Biafra Medical Clinic,356,d2rzxeVcRN1,12884,,Medical Clinic,Private Practice - Private Institution Academic,36.8495440000,-1.28683700000,Nairobi County,0101000000AB4198DBBD6C42402786E464E296F4BF
+357,Easton Pharmacy Uchumi House,357,NLpX6Wbdcpp,23861,,Pharmacy,Private Practice - Private Company,36.8242488000,-1.28689710000,Nairobi County,010100000035E213FC806942406C13DD692197F4BF
+358,Jellin Medical Clinic,358,ILbkNpLQZ3C,19490,,Medical Clinic,Private Practice - Nurse / Midwifery,36.7428500000,-1.28721000000,Nairobi County,0101000000B3EA73B5155F4240B85851836998F4BF
+359,Aptc Health Centre,359,eGSDTRaBYvN,12871,,Basic Health Centre,Armed Forces,36.9567600000,-1.28724000000,Nairobi County,01010000007C0F971C777A42400DA661F88898F4BF
+360,Mmak,360,JycsLDC3dWx,18167,,Medical Center,Non-Governmental Organizations,36.8747400000,-1.28756000000,Nairobi County,01010000006440F67AF76F42404434BA83D899F4BF
+361,medicross ltd kawangware,361,wARGv24OguJ,20537,,Medical Clinic,Private Practice - General Practitioner,36.7414900000,-1.28765000000,Nairobi County,0101000000D027F224E95E4240431CEBE2369AF4BF
+362,The Mater Hospital Buruburu,362,oBKHVzYEdoL,17657,,Primary care hospitals,Kenya Episcopal Conference-Catholic Secretariat,36.8813600000,-1.28789000000,Nairobi County,010100000054008C67D0704240EC866D8B329BF4BF
+363,Metropolitan Hospital Nairobi,363,Hu1BwBlNLr6,13090,,Primary care hospitals,Private Practice - Private Institution Academic,36.8749300000,-1.28791000000,Nairobi County,01010000000725CCB4FD6F4240D00F2384479BF4BF
+364,Corban Health care,364,wdWtyAEuHOH,19439,,Medical Clinic,Private Practice - Nurse / Midwifery,36.8914400000,-1.28796000000,Nairobi County,0101000000522CB7B41A72424008E6E8F17B9BF4BF
+365,Lady Northey Dispensary,365,xERtYOrkk9K,16169,,Dispensary,Ministry of Health,36.8114200000,-1.28803000000,Nairobi County,010100000000A94D9CDC67424024456458C59BF4BF
+366,Lea Toto Kawagware,366,Ww1GPGA2Mnh,19914,,Medical Clinic,Non-Governmental Organizations,36.7388000000,-1.28811000000,Nairobi County,0101000000742497FF905E4240B2683A3B199CF4BF
+367,Malibu Kaunda Street,367,ILms2Tc7UQn,23864,,Pharmacy,Private Practice - Private Institution Academic,36.8242675000,-1.28816120000,Nairobi County,0101000000EDD3F198816942402B9E1FEB4E9CF4BF
+368,Samawati medical Centre,368,B8ZbD9Ty6U2,22073,,Medical Clinic,Private Practice - General Practitioner,36.6870900000,-1.28820200000,Nairobi County,01010000004EB4AB90F2574240C8444AB3799CF4BF
+369,Good Shepherd Dispensary,369,rmnpXn7cV2P,12960,,Dispensary,Private Practice - Private Institution Academic,36.6873000000,-1.28837000000,Nairobi County,010100000039454772F95742403E5C72DC299DF4BF
+370,Mariakani Cottage Hospital Utawala,370,kj4AhTyo46r,19432,,Primary care hospitals,Private Practice - General Practitioner,36.9716000000,-1.28861000000,Nairobi County,0101000000956588635D7C4240E7C6F484259EF4BF
+371,Eagle Health Clinic,371,FpYNpPZwGHO,19542,,Medical Center,Private Practice - Nurse / Midwifery,36.7386900000,-1.28864000000,Nairobi County,0101000000EDF0D7648D5E42403C1405FA449EF4BF
+372,St Lukes (Kona) Health Centre,372,s4ah4herP8P,13213,,Basic Health Centre,Private Practice - Private Institution Academic,36.7359000000,-1.28870000000,Nairobi County,01010000002E90A0F8315E4240E6AE25E4839EF4BF
+373,Lea Toto Dagoretti,373,t7vstgWfIDJ,13046,,VCT,Non-Governmental Organizations,36.7359000000,-1.28870000000,Nairobi County,01010000002E90A0F8315E4240E6AE25E4839EF4BF
+374,Bahati Health Centre,374,emnI9dqORPt,12879,,Basic Health Centre,Ministry of Health,36.8629900000,-1.28891000000,Nairobi County,01010000003563D174766E42403ACC9717609FF4BF
+375,Utawala Estate Health Centre,375,cjbTAkQv6fI,18464,,Medical Clinic,Private Practice - Clinical Officer,36.9743700000,-1.28893000000,Nairobi County,01010000000D1AFA27B87C42401D554D10759FF4BF
+376,Adventist Centre For Care and Support (Kilimani),376,ZjnMNXqHnuD,18535,,VCT,Other Faith Based,36.8075100000,-1.28899000000,Nairobi County,0101000000B398D87C5C674240C8EF6DFAB39FF4BF
+377,"Gertrudes Childrens Hospital,Junction mall Clinic",377,yECESmiiFvE,23793,,Medical Clinic,Private Practice - Private Institution Academic,36.7627183000,-1.28903140000,Nairobi County,0101000000C647D5C0A06142400546A863DF9FF4BF
+378,Exselle Health Care,378,reWMcVVoQTt,23510,,Medical Clinic,Private Practice - Private Institution Academic,36.9034866000,-1.28906650000,Nairobi County,0101000000E7AFEB72A57342402DE8BD3104A0F4BF
+379,Rhodes Chest Clinic,379,KT4sSoTeXAm,13163,,Dispensary,Ministry of Health,36.8219100000,-1.28925000000,Nairobi County,0101000000B020CD583469424054E3A59BC4A0F4BF
+380,City Jacaranda SDA Church Clinic,380,tJCpuJHSmwk,23438,,Dispensary,Seventh Day Adventist,36.9071133000,-1.28936500000,Nairobi County,010100000021A2E2491C74424070B6B9313DA1F4BF
+381,Gichuru Medical Clinic,381,SsqBPOys1pU,12954,,Medical Center,Private Practice - Private Institution Academic,36.7030000000,-1.28938000000,Nairobi County,0101000000448B6CE7FB5942401ADD41EC4CA1F4BF
+382,Better Living Hospital,382,OrSxEj83FBV,23385,,Primary care hospitals,Seventh Day Adventist,36.8083583000,-1.28944000000,Nairobi County,01010000009FF9E64878674240C47762D68BA1F4BF
+383,Medanta Africare LTD,383,QeWqFdq9HjH,19482,,Medical Clinic,Private Practice - General Practitioner,36.7648200000,-1.28965000000,Nairobi County,0101000000D2A92B9FE56142401895D40968A2F4BF
+384,Maria Immaculate Health Centre,384,TXorfZmnbmS,13062,,Basic Health Centre,Kenya Episcopal Conference-Catholic Secretariat,36.7649260000,-1.28967700000,Nairobi County,010100000018EE5C18E96142404B74965984A2F4BF
+385,Moi Air Base Hospital,385,nOBeCWjJFZ8,13095,,Primary care hospitals,Ministry of Health,36.8507300000,-1.28988000000,Nairobi County,0101000000F0DC7BB8E46C42404F3BFC3559A3F4BF
+386,Fremo Medical Centre,386,rvY6Idb4l9H,18612,,Medical Clinic,Private Practice - Clinical Officer,36.7442800000,-1.28993000000,Nairobi County,010100000090882991445F42408811C2A38DA3F4BF
+387,Central Bank Staff Clinic,387,lBBHTp1cIuw,19974,,Dispensary,Public Institution - Parastatal,36.8227400000,-1.29001500000,Nairobi County,0101000000378E588B4F6942404E97C5C4E6A3F4BF
+388,Rgc Jipe Moyo Dispensary,388,iMCd6yZQlPX,13162,,Dispensary,Christian Health Association of Kenya,36.7147000000,-1.29010000000,Nairobi County,0101000000C139234A7B5B4240151DC9E53FA4F4BF
+389,New Life Home Childrens Home(Kilimani),389,ylArFd0Lgc6,13120,,Medical Clinic,Non-Governmental Organizations,36.7870670000,-1.29016700000,Nairobi County,01010000006361889CBE6442400F0EF62686A4F4BF
+390,Gsu Training School,390,DWLpIjoOcan,12962,,Basic Health Centre,Ministry of Health,36.9530900000,-1.29032000000,Nairobi County,0101000000841266DAFE794240DAFE959526A5F4BF
+391,Agakhan University Hospital Valley Arcade Clinic,391,neIPPsFEhUg,23405,,Medical Clinic,Private Practice - Private Company,36.7699383000,-1.29033830000,Nairobi County,01010000000B3895568D624240776BF4C539A5F4BF
+392,Bahati  Clinic,392,ufQ6CGUyiTo,12878,,Medical Clinic,Private Practice - General Practitioner,36.8594000000,-1.29039000000,Nairobi County,01010000005917B7D1006E4240F65D11FC6FA5F4BF
+393,Shauri Moyo Clinic,393,q6kf6cxfaRK,13184,,Medical Clinic,Private Practice - General Practitioner,36.8484100000,-1.29047000000,Nairobi County,0101000000B8CCE9B2986C42408481E7DEC3A5F4BF
+394,St Joseph(EDARP) Clinic,394,UU5HYjoMJq0,13207,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.8468300000,-1.29048000000,Nairobi County,0101000000C6A2E9EC646C4240F645425BCEA5F4BF
+395,Kivuli Dispensary,395,ekQxVaIMErv,13036,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.7273600000,-1.29052000000,Nairobi County,01010000009335EA211A5D4240BC57AD4CF8A5F4BF
+396,Space Care Health Services,396,D3ibZDNpgUO,13212,,Basic Health Centre,Private Practice - Private Institution Academic,36.7523300000,-1.29065000000,Nairobi County,01010000005CE674594C6042408351499D80A6F4BF
+397,Refugepoint(Mapendo),397,Cb7BEBQIfQ0,21287,,Medical Clinic,Non-Governmental Organizations,36.7907600000,-1.29069000000,Nairobi County,0101000000137EA99F376542404963B48EAAA6F4BF
+398,Abra Health Services,398,DXhq1hKKOyt,19441,,Medical Clinic,Private Practice - General Practitioner,36.9027500000,-1.29070000000,Nairobi County,0101000000643BDF4F8D734240BB270F0BB5A6F4BF
+399,Clinix Health Care,399,SRt7n9lCXh4,23886,,Medical Clinic,Private Practice - Private Institution Academic,36.8210113000,-1.29083710000,Nairobi County,0101000000BF92F5E5166942406C6A8FCD44A7F4BF
+400,Makadara Mercy Sisters Dispensary,400,ENCv690Yryw,13057,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.8610000000,-1.29105000000,Nairobi County,010100000091ED7C3F356E42404703780B24A8F4BF
+401,EDARP Donholm Clinic,401,hVTJp5M0cGz,12920,,Medical Center,Private Practice - Medical Specialist,36.8983000000,-1.29107000000,Nairobi County,010100000097FF907EFB7242402A8C2D0439A8F4BF
+402,Technical University Clinic,402,ZLiJxtQQm1o,20540,,Dispensary,Public Institution - Academic,36.8234800000,-1.29149000000,Nairobi County,01010000007E74EACA67694240D2C6116BF1A9F4BF
+403,Mid Hill Medical Clinic,403,ii7FgsLyqov,13091,,Medical Clinic,Private Practice - Private Institution Academic,36.7481300000,-1.29159000000,Nairobi County,010100000008944DB9C25F424043739D465AAAF4BF
+404,Debomart Healthcare Systems,404,cGy6Kmw6f8S,20195,,Medical Clinic,Private Practice - General Practitioner,36.8553200000,-1.29165000000,Nairobi County,0101000000AFCE31207B6D4240ED0DBE3099AAF4BF
+405,Swop Kawangware,405,iUoikQq3xgk,19719,,Medical Clinic,Non-Governmental Organizations,36.7350000000,-1.29180000000,Nairobi County,0101000000AE47E17A145E424097900F7A36ABF4BF
+406,Glory Health Clinic,406,Vx2cKs1FhBg,18613,,Medical Clinic,Private Practice - Nurse / Midwifery,36.7482900000,-1.29192000000,Nairobi County,010100000040F67AF7C75F4240EBC5504EB4ABF4BF
+407,Mary Immaculate Sisters Dispensary,407,DINYe6MYMym,13072,,Dispensary,Other Faith Based,36.8574000000,-1.29206000000,Nairobi County,010100000092CB7F48BF6D42402384471B47ACF4BF
+408,DOD MRS Dispensary,408,ctHCPHLxZne,12918,,Dispensary,Armed Forces,36.7994300000,-1.29210000000,Nairobi County,01010000007CB8E4B853664240EA95B20C71ACF4BF
+409,Ngaira Rhodes Dispensary,409,CDd0j0WKbeJ,13121,,Dispensary,Ministry of Health,36.8237700000,-1.29216000000,Nairobi County,010100000085B69C4B716942409430D3F6AFACF4BF
+410,PCEA Pipeline Medical Clinic,410,zw0tHOokW7n,19700,,Dispensary,Christian Health Association of Kenya,36.8897900000,-1.29246000000,Nairobi County,0101000000672783A3E4714240E7357689EAADF4BF
+411,Euraka Medical Center,411,rFq2yUidPbp,22351,,Medical Clinic,Private Practice - Private Institution Academic,36.8991840000,-1.29282500000,Nairobi County,0101000000118B1876187342401D38674469AFF4BF
+412,SWOP Clinic Donholm,412,R2rsYA67uem,22349,,Medical Clinic,Non-Governmental Organizations,36.8990850000,-1.29282600000,Nairobi County,01010000007EA99F371573424029B2D6506AAFF4BF
+413,Hope Worldwide Kenya VCT (Makadara),413,mVSJ3XYA5Rn,18543,,VCT,Non-Governmental Organizations,36.8648300000,-1.29293000000,Nairobi County,0101000000C24CDBBFB26E4240C746205ED7AFF4BF
+414,Avenue House Medical Centre,414,po9j6Y5ZfXC,21286,,Medical Center,Private Practice - General Practitioner,36.7911100000,-1.29342000000,Nairobi County,0101000000F0C4AC17436542408BE07F2BD9B1F4BF
+415,Equity Afia Bururburu Clinic,415,jjD5gZecLeI,22084,,Medical Clinic,Private Practice - General Practitioner,36.8761740000,-1.29358700000,Nairobi County,010100000081CD397826704240F67D384888B2F4BF
+416,MOW Dispensary,416,fl4BOlbwbHC,13097,,Dispensary,Ministry of Health,36.8274200000,-1.29362000000,Nairobi County,0101000000350708E6E86942406D3997E2AAB2F4BF
+417,Shepherds Medical Clinic Maringo,417,cIUkqG4NNlo,13185,,Medical Clinic,Private Practice - Private Institution Academic,36.8661200000,-1.29363000000,Nairobi County,0101000000AD342905DD6E4240DFFDF15EB5B2F4BF
+418,LVCT Dice Hurlinghum,418,t2ruWiqgofJ,23040,,Medical Clinic,Private Practice - Clinical Officer,36.7898301000,-1.29376420000,Nairobi County,0101000000BE7218271965424008C5FB1642B3F4BF
+419,Bar Hostess Empowerment and Support Programme,419,x6MDqKzMK08,20206,,Medical Clinic,Non-Governmental Organizations,36.8488900000,-1.29381000000,Nairobi County,010100000062F3716DA86C4240DDCD531D72B3F4BF
+420,Getrude Children Hospital,420,BABpe2afOR5,20886,,Primary care hospitals,Private Practice - Clinical Officer,36.8753800000,-1.29383000000,Nairobi County,010100000047C9AB730C704240C156091687B3F4BF
+421,Dr lang'o Medical Clinic,421,QYyiNcXhwYX,24449,,Medical Clinic,Private Practice - Medical Specialist,36.8060733000,-1.29390883000,Nairobi County,0101000000E3D6EE682D674240A2B0CDBED9B3F4BF
+422,Nairobi Womens Hospital (Hurlingham),422,J4ynMeGmEaL,13117,,Primary care hospitals,Private Practice - Private Institution Academic,36.7963100000,-1.29391000000,Nairobi County,010100000027BD6F7CED6542404E7ADFF8DAB3F4BF
+423,Makogeni Clinic,423,OL9rugf8GiU,13060,,Medical Clinic,Private Practice - General Practitioner,36.8475400000,-1.29394000000,Nairobi County,0101000000A306D3307C6C4240A4C7EF6DFAB3F4BF
+424,Kilele Medical Specialists Centre,424,JYYJCp3QMBw,22895,,Medical Clinic,Private Practice - Medical Specialist,36.8758300000,-1.29428500000,Nairobi County,0101000000876D8B321B704240F6402B3064B5F4BF
+425,Liverpool VCT,425,JgBnZEcsqDR,13050,,VCT,Non-Governmental Organizations,36.7926200000,-1.29435000000,Nairobi County,0101000000E813799274654240D93D7958A8B5F4BF
+426,Africare Ltd NHIF clinic,426,FTVmVryLXiE,22866,,Medical Clinic,Private Practice - Private Company,36.8123880000,-1.29452200000,Nairobi County,0101000000D8D47954FC6742407D3D5FB35CB6F4BF
+427,Dr Cecelia Gathoni,427,rYgAJBMfJRj,23792,,Medical Clinic,Private Practice - Private Institution Academic,36.7990218000,-1.29453440000,Nairobi County,010100000041E5A9584666424071C0F8B369B6F4BF
+428,Church Army Medical Clinic,428,qEFntaDExdm,18795,,Dispensary,Christian Health Association of Kenya,36.8547700000,-1.29460000000,Nairobi County,01010000000CCD751A696D4240F46C567DAEB6F4BF
+429,Dr.Joy P.Mpaata,429,zyAErCUhYjO,23041,,Medical Clinic,Private Practice - Private Institution Academic,36.8058201000,-1.29462010000,Nairobi County,0101000000CFFAEF1C2567424072E8E390C3B6F4BF
+430,Dr.Kimani Gicheu,430,ChyQUS1BJec,20397,,Medical Clinic,Private Practice - General Practitioner,36.8065100000,-1.29472000000,Nairobi County,0101000000D0F23CB83B67424049A297512CB7F4BF
+431,Dr.Charles.J.R.Opondo (landmark plaza),431,qFfsFYYzKhS,20393,,Medical Clinic,Private Practice - General Practitioner,36.8053100000,-1.29477000000,Nairobi County,01010000002592E8651467424081785DBF60B7F4BF
+432,Getrude Donholm Clinic,432,oCIzqlJOqC5,12952,,Medical Clinic,Private Practice - Private Institution Academic,36.8877700000,-1.29524000000,Nairobi County,01010000005A2F8672A2714240618907944DB9F4BF
+433,One Health limited,433,stC6GrqD2Ix,24360,,Medical Clinic,Private Practice - Medical Specialist,36.7990375000,-1.29528970000,Nairobi County,010100000088635DDC46664240CA8745B181B9F4BF
+434,Kaloleni Health Services,434,nP9JzoLVuWE,12999,,Medical Clinic,Private Practice - Private Institution Academic,36.8462300000,-1.29553000000,Nairobi County,01010000007172BF43516C424043CA4FAA7DBAF4BF
+435,Kaloleni Dispensary,435,h30PQ7TRRWD,12998,,Dispensary,Ministry of Health,36.8462300000,-1.29553000000,Nairobi County,01010000007172BF43516C424043CA4FAA7DBAF4BF
+436,Juhudi Clinic,436,aNvmypL0Xft,12992,,Medical Clinic,Private Practice - Private Institution Academic,36.8499000000,-1.29560000000,Nairobi County,0101000000696FF085C96C42405F29CB10C7BAF4BF
+437,Dr Mohamed Clinic,437,QgTOzM6COt6,12925,,Medical Clinic,Private Practice - General Practitioner,36.8499000000,-1.29560000000,Nairobi County,0101000000696FF085C96C42405F29CB10C7BAF4BF
+438,ofafa I Clinic,438,Nu7Whov9Fb2,13132,,Dispensary,Ministry of Health,36.8662300000,-1.29587000000,Nairobi County,01010000003468E89FE06E42405DE15D2EE2BBF4BF
+439,Hamza Medical Clinic,439,H6s6jXZ9C8F,19472,,Medical Center,Private Practice - Clinical Officer,36.8733100000,-1.29600000000,Nairobi County,010100000087A2409FC86F424023DBF97E6ABCF4BF
+440,Kemsa Staff Clinic,440,RgbnYWKD0bp,18357,,Medical Clinic,Private Practice - General Practitioner,36.8318800000,-1.29625000000,Nairobi County,01010000002619390B7B6A42403D0AD7A370BDF4BF
+441,Mary Mission,441,BiDkjdXE6xS,17514,,Medical Clinic,Private Practice - Private Institution Academic,36.7493900000,-1.29680000000,Nairobi County,010100000087F9F202EC5F4240AB3E575BB1BFF4BF
+442,SWOP Outreach Project Clinic,442,P7Awj50TX6h,19429,,Medical Center,Non-Governmental Organizations,36.8941300000,-1.29736000000,Nairobi County,0101000000AD2F12DA727242408B37328FFCC1F4BF
+443,Genessaret Clinic,443,TYpMgYxKQZ0,12949,,Medical Clinic,Private Practice - Private Institution Academic,36.8940000000,-1.29748000000,Nairobi County,0101000000DF4F8D976E724240DF6C73637AC2F4BF
+444,Komarock Modern Hospital Utawala,444,MblJKmnBb5u,22352,,Primary care hospitals,Private Practice - Private Institution Academic,36.9043330000,-1.29764400000,Nairobi County,0101000000C7D8092FC1734240289CDD5A26C3F4BF
+445,Mbotela Clinic,445,R13VHIlBzno,13081,,Medical Clinic,Private Practice - General Practitioner,36.8627900000,-1.29824000000,Nairobi County,01010000006DA818E76F6E4240A1BE654E97C5F4BF
+446,Glovnet VCT,446,hl6iq45XKPQ,18282,,VCT,Non-Governmental Organizations,36.8640800000,-1.29825000000,Nairobi County,01010000005890662C9A6E42401283C0CAA1C5F4BF
+447,Weider VCT,447,pxmxcLbk7Lw,13254,,Medical Center,Private Practice - Medical Specialist,36.8114680000,-1.29840300000,Nairobi County,010100000011E0F42EDE674240DE73603942C6F4BF
+448,Medanta Afri Care(Fortis),448,jq3U47R8OEe,22867,,Medical Clinic,Private Practice - Private Company,36.8086880000,-1.29856700000,Nairobi County,01010000007555A0168367424027A3CA30EEC6F4BF
+449,Mediheart Outpatient and Maternity Home,449,msfMrh509dR,23434,,Basic Health Centre,Private Practice - Private Company,36.9022760000,-1.29873300000,Nairobi County,01010000009CFBABC77D73424086C613419CC7F4BF
+450,Ngong Road Health Centre,450,peOeXgYmRoo,13123,,Dispensary,Ministry of Health,36.7587000000,-1.29896000000,Nairobi County,0101000000D3BCE3141D6142409BFEEC478AC8F4BF
+451,Bristol Park Hospital Utawala,451,l65XDsgPPFM,23399,,Primary care hospitals,Private Practice - Private Institution Academic,36.8990700000,-1.29906000000,Nairobi County,01010000004968CBB9147342400DAB7823F3C8F4BF
+452,Aga khan Greenspan Medical Centre,452,B0U9qBH7vGD,19457,,Medical Center,Private Practice - General Practitioner,36.9013100000,-1.29923000000,Nairobi County,010100000065C746205E7342409AB67F65A5C9F4BF
+453,SHOFCO Medical Clinic (Kibera),453,SQ7NgzUYOjt,17650,,Medical Clinic,Non-Governmental Organizations,36.7727301000,-1.30010100000,Nairobi County,01010000004111E6D1E862424049F3C7B436CDF4BF
+454,AAR Adams,454,fo3o1ttGuxt,20346,,Medical Center,Private Practice - General Practitioner,36.7316200000,-1.30047000000,Nairobi County,0101000000BD8C62B9A55D4240ADDD76A1B9CEF4BF
+455,Local Aid,455,Nku0JxP4vG3,19508,,Medical Clinic,Private Practice - Private Institution Academic,36.7435300000,-1.30084000000,Nairobi County,010100000025CCB4FD2B5F42401C42959A3DD0F4BF
+456,Kenyatta National Hospital,456,ZWwPSTkiLWX,13023,,Comprehensive Teaching & Tertiary Referral Hospital,Ministry of Health,36.8073400000,-1.30088000000,Nairobi County,01010000005760C8EA56674240E353008C67D0F4BF
+457,AAR Donholm,457,Rd6lIZAK54g,23439,,Medical Clinic,Private Practice - Private Company,36.8881128000,-1.30153420000,Nairobi County,01010000005A9423AEAD71424025027A8615D3F4BF
+458,St Monica Donholm Clinic,458,wtL24AXk2sx,13220,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.8884900000,-1.30169000000,Nairobi County,01010000005969520ABA714240DD7BB8E4B8D3F4BF
+459,Meridian Medical Donholm Clinic,459,VIZr6vkJjBo,17727,,Medical Clinic,Private Practice - General Practitioner,36.8880000000,-1.30175000000,Nairobi County,01010000008B6CE7FBA97142408716D9CEF7D3F4BF
+460,Woodley Clinic,460,GJ7HlszoEjK,13259,,Medical Clinic,Ministry of Health,36.7844200000,-1.30227000000,Nairobi County,0101000000062AE3DF67644240A0FD481119D6F4BF
+461,Oasis Doctors Plaza Nairobi Green House,461,BqS6eH9AQyj,22851,,Medical Clinic,Private Practice - Medical Specialist,36.7844200000,-1.30227000000,Nairobi County,0101000000062AE3DF67644240A0FD481119D6F4BF
+462,Child Doctor Kenya,462,kUsA28Yefik,19504,,Medical Clinic,Private Practice - Private Institution Academic,36.7890800000,-1.30233000000,Nairobi County,0101000000BEF6CC92006542404A9869FB57D6F4BF
+463,St Joseph's Dispensary (Dagoretti),463,AHM06z0QKsS,13210,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.7415200000,-1.30268000000,Nairobi County,01010000003BAA9A20EA5E4240D673D2FBC6D7F4BF
+464,Nairobi Remand  Prison Health Centre,464,BtD2riFtR1r,13161,,Basic Health Centre,Ministry of Health,36.8373000000,-1.30359000000,Nairobi County,01010000006C787AA52C6B42404148163081DBF4BF
+465,Landmawe Medical Services,465,UCMCPHZbIio,13040,,Medical Clinic,Private Practice - Private Institution Academic,36.8373300000,-1.30366000000,Nairobi County,0101000000D7FA22A12D6B42405DA79196CADBF4BF
+466,Nascop VCT,466,udVKulNVKwJ,13119,,VCT,Ministry of Health,36.7977000000,-1.30366000000,Nairobi County,010100000075029A081B6642405DA79196CADBF4BF
+467,National Microbiology Reference Lab,467,csymbnkmLhT,20583,,Laboratory,Ministry of Health,36.8076900000,-1.30433000000,Nairobi County,010100000033A7CB62626742401F11532289DEF4BF
+468,National Food Safety and Nutrition Reference Lab,468,S0YoBqLZPPK,20582,,Laboratory,Ministry of Health,36.8076900000,-1.30433000000,Nairobi County,010100000033A7CB62626742401F11532289DEF4BF
+469,New Partners Initiative Scaling Up HIV and AID Prevention Program (Npi Shap),469,OLfc8uVpZxH,18007,,Medical Center,Non-Governmental Organizations,36.8344600000,-1.30434000000,Nairobi County,0101000000FBE8D495CF6A424091D5AD9E93DEF4BF
+470,National Virology Reference Lab,470,agLm1eX0GaZ,20580,,Laboratory,Ministry of Health,36.8064300000,-1.30445000000,Nairobi County,0101000000B341261939674240744694F606DFF4BF
+471,Nairobi Regional Blood Transfusion  Center,471,beJIQzWWZWA,20581,,Laboratory,Ministry of Health,36.8063600000,-1.30488000000,Nairobi County,0101000000BA66F2CD366742408D45D3D9C9E0F4BF
+472,British American Tobacco Kenya Clinic,472,TXmjwBNpyjc,18277,,Medical Center,Private Practice - Private Institution Academic,36.8565600000,-1.30535000000,Nairobi County,0101000000E88711C2A36D42406D567DAEB6E2F4BF
+473,Kenya Pipeline Staff Clinic,473,pjEEp6cdkDK,23947,,Medical Clinic,Private Practice - Private Institution Academic,36.8754590000,-1.30542500000,Nairobi County,010100000093FE5E0A0F704240C217265305E3F4BF
+474,National Parasitology and NTD Reference Lab,474,zNZkFQwixf8,20584,,Laboratory,Ministry of Health,36.8067700000,-1.30573000000,Nairobi County,01010000006CB2463D446742404E7FF62345E4F4BF
+475,Kibera D O Dispensary,475,mi7ORwgRy3S,13029,,Dispensary,Ministry of Health,36.7878800000,-1.30593000000,Nairobi County,010100000014967840D964424030D80DDB16E5F4BF
+476,Gsu Dispensary,476,PSanwOd34Gy,12961,,Dispensary,Ministry of Health,36.7899280000,-1.30615600000,Nairobi County,0101000000EC18575C1C6542403A9677D503E6F4BF
+477,Embakasi Health Centre,477,fqT44AXXEda,12935,,Comprehensive health Centre,Ministry of Health,36.9147200000,-1.30618000000,Nairobi County,0101000000A27F828B157542404A07EBFF1CE6F4BF
+478,The Mater Hospital Mukuru,478,mVjvQPVEjR6,13074,,Secondary care hospitals,Kenya Episcopal Conference-Catholic Secretariat,36.8342700000,-1.30672000000,Nairobi County,01010000005704FF5BC96A42404777103B53E8F4BF
+479,Kibera Human Development Project Clinic,479,a5LIsM37VVR,13026,,Medical Clinic,Non-Governmental Organizations,36.7831000000,-1.30683000000,Nairobi County,0101000000B1BFEC9E3C64424029E8F692C6E8F4BF
+480,Nairobi West Hospital,480,W4STuKjad8R,13115,,Primary care hospitals,Private Practice - Private Institution Academic,36.8257600000,-1.30684000000,Nairobi County,0101000000282CF180B26942409BAC510FD1E8F4BF
+481,Kibera Chemi Chemi Ya Uzima Clinic,481,Dfweqt8eyqS,12894,,Dispensary,Christian Health Association of Kenya,36.7880400000,-1.30692000000,Nairobi County,01010000004DF8A57EDE64424029D027F224E9F4BF
+482,Makina Community Clinic,482,cIHhY1OzCgt,20624,,Medical Clinic,Private Practice - General Practitioner,36.7825500000,-1.30706000000,Nairobi County,01010000000EBE30992A644240618E1EBFB7E9F4BF
+483,St Pery's Medical Clinic,483,MTdbv434X1d,17392,,Medical Clinic,Private Practice - Nurse / Midwifery,36.7825500000,-1.30726000000,Nairobi County,01010000000EBE30992A64424043E7357689EAF4BF
+484,SDA Health Services Likoni Road Clinic,484,mh7nonWWDF6,18593,,Dispensary,Christian Health Association of Kenya,36.8568600000,-1.30762000000,Nairobi County,010100000012A0A696AD6D42404087F9F202ECF4BF
+485,Kianda 42 Community Clinic,485,ZlQBKMyBkpM,20621,,Medical Clinic,Private Practice - General Practitioner,36.7719000000,-1.30764000000,Nairobi County,010100000026E4839ECD6242402310AFEB17ECF4BF
+486,Getrudes Hospital (Nairobi West Clinic),486,ScEXj8hWn4w,12953,,Medical Clinic,Private Practice - Private Institution Academic,36.8200500000,-1.30773000000,Nairobi County,0101000000DB8AFD65F768424023F8DF4A76ECF4BF
+487,St Knights Medical Clinic,487,nv3l4oVTyin,17422,,Medical Center,Private Practice - Nurse / Midwifery,36.7830300000,-1.30774000000,Nairobi County,0101000000B8E4B8533A64424094BC3AC780ECF4BF
+488,Vostrum Clinic,488,rgMZxwQMoSN,18323,,Medical Clinic,Non-Governmental Organizations,36.7810500000,-1.30775000000,Nairobi County,010100000039454772F9634240068195438BECF4BF
+489,Ushirika Medical Clinic,489,fWva3QHl9PM,13245,,Medical Clinic,Private Practice - General Practitioner,36.7727600000,-1.30777000000,Nairobi County,010100000017D4B7CCE9624240EA094B3CA0ECF4BF
+490,Marie Stopes Clinic (Langata),490,pDk8s6dEjVq,16167,,Medical Clinic,Non-Governmental Organizations,36.7892000000,-1.30785000000,Nairobi County,010100000069006F8104654240772D211FF4ECF4BF
+491,Mbagathi District Hospital,491,mu9d9jNXA6Y,13080,,Primary care hospitals,Ministry of Health,36.8031700000,-1.30793000000,Nairobi County,01010000006D904946CE6642400551F70148EDF4BF
+492,Meridian Equator Hospital,492,D1sJppq7GNI,13109,,Primary care hospitals,Private Practice - Private Institution Academic,36.8242100000,-1.30801000000,Nairobi County,0101000000A18499B67F6942409274CDE49BEDF4BF
+493,Kenya Airways Pride Clinic,493,T5FeGw7Gf1Z,22018,,Dispensary,Public Institution - Parastatal,36.9455683000,-1.30803500000,Nairobi County,01010000003151CE6108794240AF5FB01BB6EDF4BF
+494,Vebeneza Medical Clinic,494,kfZYOteB1Q6,23719,,Medical Clinic,Private Practice - Clinical Officer,36.9102655000,-1.30811613000,Nairobi County,0101000000AB967494837442407785DB2D0BEEF4BF
+495,Institute for Development and Welfare Services,495,vdbC2ilbiWt,20145,,VCT,Non-Governmental Organizations,36.7895200000,-1.30814000000,Nairobi County,0101000000DBC4C9FD0E654240596E693524EEF4BF
+496,Coptic Medical Clinic,496,izA6A7pqMPN,12904,,Dispensary,Christian Health Association of Kenya,36.8629800000,-1.30837000000,Nairobi County,0101000000118DEE20766E42409014916115EFF4BF
+497,Nimoli Medical Services,497,o6bbArmHzc2,23050,,Medical Clinic,Private Practice - General Practitioner,36.9022810000,-1.30850870000,Nairobi County,0101000000AE669DF17D734240EC8090D1A6EFF4BF
+498,Makina Clinic,498,DaVBemEUKpb,13058,,Medical Clinic,Private Practice - Clinical Officer,36.7848500000,-1.30868000000,Nairobi County,0101000000FF21FDF67564424055DE8E705AF0F4BF
+499,Tumaini Medical Centre,499,iXe82pbM0g6,17385,,Medical Clinic,Private Practice - Clinical Officer,36.7731400000,-1.30878000000,Nairobi County,01010000005E9D6340F6624240C68A1A4CC3F0F4BF
+500,Cana Family Life Clinic,500,Ch9QLIX4Lv4,12889,,Medical Clinic,Non-Governmental Organizations,36.8805300000,-1.30907000000,Nairobi County,0101000000CD920035B5704240A7CB6262F3F1F4BF
+501,Communal Oriented Service International Centre,501,ltJvKksRk8d,19455,,Basic Health Centre,Private Practice - Nurse / Midwifery,36.8932000000,-1.30920000000,Nairobi County,0101000000C364AA60547242406DC5FEB27BF2F4BF
+502,St Clare Medical Clinic,502,yuAIRDy4U3u,18465,,Medical Clinic,Private Practice - Nurse / Midwifery,36.8876000000,-1.30929000000,Nairobi County,0101000000FDF675E09C7142406DAD2F12DAF2F4BF
+503,Memorial Hospital,503,FjX69scm7lW,13087,,Primary care hospitals,Armed Forces,36.8033400000,-1.30948000000,Nairobi County,0101000000C9C859D8D3664240DD41EC4CA1F3F4BF
+504,Joyland F Clinic Tassia,504,VjT4hdkblqM,23002,,Dispensary,Other Faith Based,36.9095660000,-1.30948300000,Nairobi County,0101000000DAC69FA86C744240FFAF3A72A4F3F4BF
+505,AAR Health Care,505,RrOzfK1AgMn,20405,,Medical Clinic,Private Practice - General Practitioner,36.9124000000,-1.30954000000,Nairobi County,0101000000696FF085C974424087DC0C37E0F3F4BF
+506,Strathmore University Medical Centre,506,bac4kZ8tH1S,18574,,Medical Center,Private Practice - Private Institution Academic,36.8134900000,-1.30968000000,Nairobi County,0101000000C0CFB87020684240BF9A030473F4F4BF
+507,Shree Cutchhi Leva Samaj Medical Clinic,507,RuEy4YCpo4Y,17389,,Medical Clinic,Non-Governmental Organizations,36.8242100000,-1.31010000000,Nairobi County,0101000000A18499B67F69424067D5E76A2BF6F4BF
+508,Bliss Health Care (Kibera),508,rGturlpJAPs,18754,,Medical Clinic,Private Practice - Private Institution Academic,36.7739500000,-1.31037000000,Nairobi County,01010000009E5E29CB10634240658D7A8846F7F4BF
+509,Family Dental Care (Ayany),509,Opmfu494Mgt,18755,,Medical Center,Private Practice - General Practitioner,36.7739500000,-1.31037000000,Nairobi County,01010000009E5E29CB10634240658D7A8846F7F4BF
+510,Karen Roses Medical Clinic,510,sDRabXas3kE,22850,,Medical Clinic,Private Practice - Nurse / Midwifery,36.6911000000,-1.31064000000,Nairobi County,0101000000FF21FDF67558424063450DA661F8F4BF
+511,St Odilia's Dispensary,511,Uzeho3ZhlQI,13221,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.6911000000,-1.31064000000,Nairobi County,0101000000FF21FDF67558424063450DA661F8F4BF
+512,Discordant Couples of Kenya VCT,512,x4BN9ggN2JX,17663,,VCT,Non-Governmental Organizations,36.7768600000,-1.31078000000,Nairobi County,010100000008C90226706342409B030473F4F8F4BF
+513,Access Afya Kenya Medical Clinic,513,fULRjpCPoum,19467,,Medical Clinic,Private Practice - General Practitioner,36.8427000000,-1.31085000000,Nairobi County,01010000006B2BF697DD6B4240B7627FD93DF9F4BF
+514,Kemri VCT,514,ide1oUojpWU,13019,,VCT,Ministry of Health,36.8036300000,-1.31092000000,Nairobi County,0101000000D00A0C59DD664240D3C1FA3F87F9F4BF
+515,Kware Dispensary,515,vshyHFPS1Mo,23414,,Dispensary,Ministry of Health,36.8872832000,-1.31098960000,Nairobi County,01010000002625F37E927142408456163BD0F9F4BF
+516,Vipawa Medical Services,516,eyDpe8RduWo,18741,,Medical Clinic,Private Practice - Clinical Officer,36.7850300000,-1.31122000000,Nairobi County,01010000007F30F0DC7B64424026C79DD2C1FAF4BF
+517,Karanja Community Clinic,517,FoKfTGrVlpH,20625,,Medical Clinic,Ministry of Health,36.7822000000,-1.31126000000,Nairobi County,010100000032772D211F644240EDD808C4EBFAF4BF
+518,The Zambezi Hospital Ltd,518,dk7SVdlm2n1,21281,,Primary care hospitals,Private Practice - Private Institution Academic,36.7578900000,-1.31156000000,Nairobi County,010100000094FB1D8A0261424040DEAB5626FCF4BF
+519,Frepals Community Nursing Home,519,z2WozBo9nen,12944,,Basic Health Centre,Non-Governmental Organizations,36.7931400000,-1.31166000000,Nairobi County,010100000021938C9C85654240B18A37328FFCF4BF
+520,Lengo Medical Clinic,520,PPSlcuMSjBf,18590,,Medical Clinic,Private Practice - Nurse / Midwifery,36.8467600000,-1.31189000000,Nairobi County,0101000000CEC7B5A1626C4240E8305F5E80FDF4BF
+521,St Mary's Medical Clinic,521,NEL2urxqE4o,13216,,Medical Clinic,Private Practice - Private Institution Academic,36.7836500000,-1.31197000000,Nairobi County,010100000055C1A8A44E64424076543541D4FDF4BF
+522,South B Hospital LTD,522,RDTDB2IKDQ5,18005,,Primary care hospitals,Private Practice - General Practitioner,36.8366900000,-1.31225000000,Nairobi County,0101000000F3716DA8186B4240E5D022DBF9FEF4BF
+523,Mukuru Crescent Clinic,523,MbcHDqTu68E,13100,,Dispensary,Supreme Council for Kenya Muslims,36.8498900000,-1.31243000000,Nairobi County,010100000046990D32C96C4240E4A08499B6FFF4BF
+524,Nyumbani Diagnostic Laboratory and Medical Clinic,524,lzuomR1JMCr,13131,,Medical Clinic,Non-Governmental Organizations,36.6990900000,-1.31251000000,Nairobi County,0101000000F67AF7C77B59424072C45A7C0A00F5BF
+525,Chonesus Clinic,525,aAE52W6CjwW,19035,,Dispensary,Christian Health Association of Kenya,36.7926100000,-1.31271000000,Nairobi County,0101000000C53D963E74654240541D7233DC00F5BF
+526,Msf Olympic Centre,526,C1g7k5vTRkn,17651,,Medical Clinic,Non-Governmental Organizations,36.7785900000,-1.31276000000,Nairobi County,01010000000F7F4DD6A86342408CF337A11001F5BF
+527,Uhuru Camp Dispensary (O P Admin Police),527,N9r7p39Cyhv,13239,,Dispensary,Armed Forces,36.8116400000,-1.31291000000,Nairobi County,01010000000E10CCD1E3674240367689EAAD01F5BF
+528,Mercillin Afya Centre,528,B8SmKVbMgPs,13088,,Basic Health Centre,Ministry of Health,36.7844000000,-1.31299000000,Nairobi County,0101000000BF7D1D3867644240C4995FCD0102F5BF
+529,Jinnah Ave Clinic,529,Uz05OBuEu89,12990,,Medical Clinic,Private Practice - General Practitioner,36.8261500000,-1.31301000000,Nairobi County,010100000092CB7F48BF694240A72215C61602F5BF
+530,Family Care Medical Centre & Maternity,530,uadFHo5Wefw,12942,,Basic Health Centre,Non-Governmental Organizations,36.8168700000,-1.31313000000,Nairobi County,0101000000B18A37328F684240FB57569A9402F5BF
+531,Bristal Park Hospital,531,ypIztvPg8bq,18271,,Primary care hospitals,Private Practice - General Practitioner,36.8945500000,-1.31319000000,Nairobi County,01010000008351499D80724240A6F27684D302F5BF
+532,CFW Clinic,532,evsXKpmXDvi,20325,,Medical Clinic,Private Practice - Private Institution Academic,36.7785800000,-1.31320100000,Nairobi County,0101000000EBA86A82A86342402331410DDF02F5BF
+533,Nairobi West Chidren Clinic,533,lcqEc8aoYJE,13114,,Medical Clinic,Private Practice - Private Institution Academic,36.8190700000,-1.31323000000,Nairobi County,01010000003F912749D76842406C04E275FD02F5BF
+534,Avenue Health Care Embakasi,534,aRaEsl6oN5L,22562,,Medical Clinic,Private Practice - General Practitioner,36.8987610000,-1.31323300000,Nairobi County,0101000000CBF5B6990A7342408F72309B0003F5BF
+535,Lindi Community Clinic,535,p4LADQiMdSO,20623,,Medical Clinic,Private Practice - General Practitioner,36.7909600000,-1.31331000000,Nairobi County,0101000000DA38622D3E654240FA27B8585103F5BF
+536,Kisembo Dispensary,536,KMa5n1FkqQa,13035,,Dispensary,Private Practice - Private Institution Academic,36.7899900000,-1.31332000000,Nairobi County,010100000062156F641E6542406CEC12D55B03F5BF
+537,Community Evolution Network VCT,537,JTGf2aQXbXF,20230,,Medical Clinic,Non-Governmental Organizations,36.7894600000,-1.31351000000,Nairobi County,010100000005C078060D654240DC80CF0F2304F5BF
+538,Nairobi South Hospital,538,rUYEWYtrEy0,13112,,Primary care hospitals,Private Practice - Private Institution Academic,36.8283000000,-1.31359000000,Nairobi County,01010000006EA301BC056A42406AA4A5F27604F5BF
+539,Mwatate Clinic,539,A1f76xYcu4K,13106,,Medical Clinic,Private Practice - Private Institution Academic,36.8902600000,-1.31397000000,Nairobi County,0101000000EE77280AF47142404BCD1E680506F5BF
+540,Southern Health Care,540,nh9clocohNJ,17390,,Medical Clinic,Private Practice - General Practitioner,36.8276500000,-1.31398000000,Nairobi County,01010000006744696FF0694240BC9179E40F06F5BF
+541,Olympic Community Clinic,541,rkwnd2ZnWKP,20626,,Medical Clinic,Ministry of Health,36.7785300000,-1.31410000000,Nairobi County,01010000003A7AFCDEA663424011C7BAB88D06F5BF
+542,Hope World Wide Kenya Mukuru Clinic,542,EEgdQUWsTLK,17684,,Medical Clinic,Non-Governmental Organizations,36.8712800000,-1.31417000000,Nairobi County,010100000056D4601A866F42402D26361FD706F5BF
+543,Hope World Wide Kenya Mukuru Clinic,543,FR5Qs4l6xLj,17684,,Medical Clinic,Non-Governmental Organizations,36.8712800000,-1.31417000000,Nairobi County,010100000056D4601A866F42402D26361FD706F5BF
+544,Carolina For Kibera VCT,544,e1tAfdtChUW,12891,,Medical Clinic,Non-Governmental Organizations,36.7787900000,-1.31420000000,Nairobi County,0101000000D6390664AF63424082734694F606F5BF
+545,Medanta Afri Care(South C),545,O8a2gcfMcNl,13181,,Medical Clinic,Private Practice - Private Company,36.8272600000,-1.31425000000,Nairobi County,0101000000FDA4DAA7E3694240BA490C022B07F5BF
+546,Huduma Health Centre,546,IU6aU0rnWzP,17393,,Medical Clinic,Private Practice - Clinical Officer,36.7779100000,-1.31428000000,Nairobi County,01010000009D9D0C8E926342400F971C774A07F5BF
+547,Lea Toto Kibera,547,bYY7z5WqmB4,13048,,Medical Clinic,Non-Governmental Organizations,36.7797900000,-1.31434000000,Nairobi County,0101000000B9DFA128D0634240BA313D618907F5BF
+548,Wema Medical Clinic,548,ZaMiBHc5fO2,17394,,Medical Clinic,Private Practice - Nurse / Midwifery,36.7816900000,-1.31444000000,Nairobi County,01010000001CCEFC6A0E6442402BDEC83CF207F5BF
+549,Green Cross Clinic,549,gFy0h8lquMs,19895,,Medical Clinic,Private Practice - Clinical Officer,36.7862900000,-1.31503000000,Nairobi County,0101000000FF959526A56442405F24B4E55C0AF5BF
+550,Cidi Mukuru Clinic,550,A9qrbBjlkOI,12897,,Dispensary,Other Faith Based,36.8909300000,-1.31503000000,Nairobi County,01010000003C8386FE097242405F24B4E55C0AF5BF
+551,South B Police Band Dispensary,551,KgodLsm367V,13144,,Dispensary,Ministry of Health,36.8346500000,-1.31512000000,Nairobi County,01010000009FCDAACFD56A42405F0CE544BB0AF5BF
+552,Railway Training Institute  Dispensary South B,552,No67ZbXCR2x,13168,,Dispensary,Public Institution - Academic,36.8344300000,-1.31514000000,Nairobi County,010100000090662C9ACE6A424042959A3DD00AF5BF
+553,Kibera South Health Centre,553,jTfjpQwY6O2,13030,,Basic Health Centre,Ministry of Health,36.7890840000,-1.31531100000,Nairobi County,010100000000E65AB400654240DA1A118C830BF5BF
+554,Revival Home Based Care Clinic,554,gGN0ERUmMHV,16168,,Dispensary,Other Faith Based,36.7754000000,-1.31562000000,Nairobi County,0101000000C1A8A44E40634240946A9F8EC70CF5BF
+555,Blessed Medicare Centre,555,TcVWlqA9LAf,21903,,Medical Clinic,Private Practice - General Practitioner,36.8894300000,-1.31566000000,Nairobi County,0101000000670A9DD7D87142405B7C0A80F10CF5BF
+556,Josiah Community Medical Centre,556,rinX0k4Yb30,20450,,Medical Center,Private Practice - Clinical Officer,36.8894300000,-1.31566000000,Nairobi County,0101000000670A9DD7D87142405B7C0A80F10CF5BF
+557,Baldo Ippolita Catholic Health Centre,557,TZIZf95N8SM,24270,,Medical Clinic,Kenya Episcopal Conference-Catholic Secretariat,36.8894330000,-1.31566600000,Nairobi County,0101000000D87DC7F0D87142409F58A7CAF70CF5BF
+558,Lea Toto Community Mukuru Rueben,558,HfiSnxwebzM,17720,,Dispensary,Other Faith Based,36.8691700000,-1.31595000000,Nairobi County,010100000008556AF6406F42403CBD5296210EF5BF
+559,Healthways Medical Centre,559,SJ65JqGSWrv,18278,,Medical Center,Private Practice - Private Institution Academic,36.8285100000,-1.31598000000,Nairobi County,010100000059349D9D0C6A4240910A630B410EF5BF
+560,South C Hospital Limited,560,ThVVI13upYV,22844,,Primary care hospitals,Private Practice - Private Institution Academic,36.8285100000,-1.31598000000,Nairobi County,010100000059349D9D0C6A4240910A630B410EF5BF
+561,Reuben Mukuru Health Centre,561,OzMYgsrBB3L,13173,,Basic Health Centre,Kenya Episcopal Conference-Catholic Secretariat,36.8694700000,-1.31601000000,Nairobi County,0101000000336DFFCA4A6F4240E6577380600EF5BF
+562,Soweto West Clinic,562,GmCycqqUTUQ,20627,,Medical Clinic,Ministry of Health,36.7760400000,-1.31633000000,Nairobi County,0101000000A5315A47556342401DE6CB0BB00FF5BF
+563,Raila Community Clinic,563,TY12HV32i8l,24273,,Medical Clinic,Ministry of Health,36.7727641900,-1.31633529000,Nairobi County,0101000000F3C8DDEFE96242404AEED197B50FF5BF
+564,Kikoshep Kenya (Mugumoini),564,SFJEt1VXzDS,13033,,Medical Clinic,Non-Governmental Organizations,36.8171000000,-1.31645000000,Nairobi County,0101000000E3C798BB96684240711B0DE02D10F5BF
+565,Amref Medical centre,565,FNqOhEDkaQU,23815,,Medical Clinic,Private Practice - Private Institution Academic,36.8135000000,-1.31681000000,Nairobi County,0101000000E3A59BC4206842406FBBD05CA711F5BF
+566,Nairobi South Clinic,566,A7oMr08DhJB,13113,,Medical Clinic,Private Practice - General Practitioner,36.8425500000,-1.31688000000,Nairobi County,0101000000569FABADD86B42408B1A4CC3F011F5BF
+567,Balozi Hospital,567,JeqO3sy8LK9,22995,,Primary care hospitals,Private Practice - Private Institution Academic,36.8399910000,-1.31695400000,Nairobi County,010100000098F738D3846B4240D461855B3E12F5BF
+568,Pipeline Medical Health Services,568,cRxx0JVoVDn,13143,,Medical Center,Private Practice - Clinical Officer,36.8865000000,-1.31699000000,Nairobi County,0101000000B6F3FDD4787142406E8B321B6412F5BF
+569,Pipeline Nursing Home,569,apKYnsMHEmX,12978,,Comprehensive health Centre,Private Practice - Private Institution Academic,36.8865000000,-1.31699000000,Nairobi County,0101000000B6F3FDD4787142406E8B321B6412F5BF
+570,Alice Nursing Home,570,fJ4j8C8VcLS,12869,,Comprehensive health Centre,Private Practice - Private Institution Academic,36.8865000000,-1.31699000000,Nairobi County,0101000000B6F3FDD4787142406E8B321B6412F5BF
+571,Mayflower Clinic,571,OIUCAFC6TwJ,13079,,Medical Center,Private Practice - Private Institution Academic,36.8865000000,-1.31699000000,Nairobi County,0101000000B6F3FDD4787142406E8B321B6412F5BF
+572,Silanga Dispensary,572,UmN02RNDmtB,13186,,Medical Clinic,Non-Governmental Organizations,36.7960300000,-1.31738000000,Nairobi County,01010000004451A04FE4654240C078060DFD13F5BF
+573,Port Health Dispensary (Langata),573,eqjeLQLQ75y,13146,,Dispensary,Ministry of Health,36.8157900000,-1.31743000000,Nairobi County,0101000000B13385CE6B684240F94ECC7A3114F5BF
+574,Silanga Community Clinic,574,JgJ0g4zdpHB,20622,,Medical Clinic,Ministry of Health,36.7994000000,-1.31766000000,Nairobi County,010100000011363CBD5266424030F5F3A62215F5BF
+575,Mission Care Nursing Home,575,pd8QWEyzxge,23482,,Comprehensive health Centre,Private Practice - Clinical Officer,36.8936567000,-1.31833670000,Nairobi County,0101000000F72CBE576372424071DD3939E817F5BF
+576,Nairobi West Men's Prison Dispensary,576,aehWJKyrJBo,13116,,Dispensary,Ministry of Health,36.8101000000,-1.31869000000,Nairobi County,0101000000AB3E575BB1674240EFFE78AF5A19F5BF
+577,Lina Medical Services,577,pJMTYt2h0jk,20406,,Dispensary,Ministry of Health,36.8991900000,-1.31901000000,Nairobi County,0101000000F3716DA818734240268DD13AAA1AF5BF
+578,Zinduka Clinic,578,skyA4GkFQZS,13262,,VCT,Other Faith Based,36.8323000000,-1.31960000000,Nairobi County,0101000000FB3A70CE886A42405BD3BCE3141DF5BF
+579,Agakhan University Clinic Embakasi (AUn),579,oqvgqMBwdvU,18894,,Medical Clinic,Private Practice - General Practitioner,36.9001120000,-1.32000700000,Nairobi County,01010000005B5EB9DE367342406EDBF7A8BF1EF5BF
+580,Medigold,580,vvn3gDTLRiA,22052,,Medical Clinic,Private Practice - Clinical Officer,36.9000120000,-1.32000800000,Nairobi County,0101000000F700DD97337342407A5567B5C01EF5BF
+581,Connections Medical Clinic,581,vxmiuRcjJKY,19450,,Medical Clinic,Private Practice - Nurse / Midwifery,36.9001100000,-1.32007000000,Nairobi County,0101000000BA66F2CD367342403BE466B8011FF5BF
+582,Blissgvs Health Care(Pipeline),582,LN4tQYiay1q,21050,,Medical Clinic,Private Practice - Clinical Officer,36.9001200000,-1.32008000000,Nairobi County,0101000000DE3CD52137734240ACA8C1340C1FF5BF
+583,Imara Health Centre,583,pM6L7uFojJG,17685,,Basic Health Centre,Christian Health Association of Kenya,36.8891800000,-1.32023000000,Nairobi County,0101000000EF2076A6D0714240562B137EA91FF5BF
+584,MC Finely Healthcare2,584,WX7xXipBHVj,24631,,Medical Center,Private Practice - Clinical Officer,36.8971433000,-1.32038190000,Nairobi County,0101000000ABA97697D57242407CAF6BC54820F5BF
+585,Langata Health Centre,585,m516aDmFUUI,13041,,Basic Health Centre,Ministry of Health,36.7798300000,-1.32054000000,Nairobi County,010100000047382D78D16342401BF5108DEE20F5BF
+586,Pine Medical Clinic,586,bJwSDmcEAP3,13142,,Medical Center,Private Practice - Private Institution Academic,36.9336000000,-1.32065000000,Nairobi County,0101000000D6C56D3480774240FE65F7E46121F5BF
+587,Kapu Medical Clinic,587,F935vIBMscX,13002,,VCT,Private Practice - General Practitioner,36.9336000000,-1.32065000000,Nairobi County,0101000000D6C56D3480774240FE65F7E46121F5BF
+588,Garrison Health Centre,588,y9iW4VkPbGw,12947,,Basic Health Centre,Armed Forces,36.9336000000,-1.32065000000,Nairobi County,0101000000D6C56D3480774240FE65F7E46121F5BF
+589,Wentworth Hospital,589,x84Ar1RLLLh,13257,,Primary care hospitals,Private Practice - Private Institution Academic,36.8988800000,-1.32079000000,Nairobi County,0101000000A583F57F0E7342403524EEB1F421F5BF
+590,Karen Health Centre,590,T0QCTzRDCcr,13003,,Basic Health Centre,Ministry of Health,36.7059500000,-1.32092000000,Nairobi County,01010000003C4ED1915C5A4240FC1D8A027D22F5BF
+591,St Mary's Mission Hospital,591,chXwFzmckgz,13218,,Primary care hospitals,Kenya Episcopal Conference-Catholic Secretariat,36.7741100000,-1.32193000000,Nairobi County,0101000000D7C0560916634240D89E5912A026F5BF
+592,Dog Unit Dispensary (O P Kenya Police),592,g8HWDfoqKdZ,12919,,Dispensary,Ministry of Health,36.7717300000,-1.32213000000,Nairobi County,0101000000C9AB730CC8624240BAF770C97127F5BF
+593,South C Dialysis Centre Ltd,593,Bf4qf4dYB91,22805,,Medical Clinic,Private Practice - Private Company,36.8257600000,-1.32229000000,Nairobi County,0101000000282CF180B2694240D53E1D8F1928F5BF
+594,Langata Women Prison Dispensary,594,HkNQtfDQLHc,13044,,Dispensary,Ministry of Health,36.7765800000,-1.32279000000,Nairobi County,0101000000255D33F9666342400A9DD7D8252AF5BF
+595,Africare Ltd Karen Clinic,595,k62qAqfRoTF,22639,,Medical Clinic,Private Practice - Private Company,36.7070660000,-1.32299900000,Nairobi County,0101000000880E8123815A42405340DAFF002BF5BF
+596,The Mater Embakasi Clinic,596,i3SHLrw2hiS,19434,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.8992400000,-1.32407000000,Nairobi County,0101000000A5A0DB4B1A734240E5D53906642FF5BF
+597,Sex Workers Outreach Program (Lang'ata),597,Tc8v3FlMk4Y,18176,,Medical Clinic,Non-Governmental Organizations,36.7829300000,-1.32436000000,Nairobi County,01010000005587DC0C37644240C616821C9430F5BF
+598,Medicross Limited Langata Mall,598,lBRyclGgk78,22842,,Medical Clinic,Private Practice - Private Institution Academic,36.7829300000,-1.32436000000,Nairobi County,01010000005587DC0C37644240C616821C9430F5BF
+599,Houghton clinic,599,rj6NWZI6q2I,24543,,Medical Center,Private Practice - General Practitioner,36.8438864000,-1.32441710000,Nairobi County,010100000004C53478046C4240E9352CFCCF30F5BF
+600,Embakasi Medical Centre,600,PPSjQRRueFP,19437,,Medical Clinic,Private Practice - Clinical Officer,36.8925400000,-1.32516000000,Nairobi County,0101000000982F2FC03E7242404E7ADFF8DA33F5BF
+601,Dsc Karen Dispensary (Armed Forces),601,JzuRNGRkZMJ,13099,,Dispensary,Armed Forces,36.6965900000,-1.32521000000,Nairobi County,01010000003E5C72DC295942408750A5660F34F5BF
+602,Jamii  Medical Clinic Mukuru,602,vYLDQuit7QN,19446,,Medical Clinic,Private Practice - Clinical Officer,36.8908600000,-1.32614000000,Nairobi County,010100000044A852B307724240D6AD9E93DE37F5BF
+603,Lang'ata Comprehensive Medical Service,603,T0vz0x9RcA6,17384,,Medical Clinic,Private Practice - General Practitioner,36.7896000000,-1.32689000000,Nairobi County,0101000000F775E09C11654240253B3602F13AF5BF
+604,Eagle Wings Medical Centre,604,QRDA6zeK96G,18739,,Medical Center,Private Practice - General Practitioner,36.7896000000,-1.32689000000,Nairobi County,0101000000F775E09C11654240253B3602F13AF5BF
+605,Langata Hospital,605,cksqvEeOLiY,13042,,Primary care hospitals,Private Practice - Private Institution Academic,36.7891900000,-1.32785000000,Nairobi County,0101000000452A8C2D04654240C9E53FA4DF3EF5BF
+606,Scion Healthcare Ltd,606,F40LhSvsQqC,19449,,Medical Clinic,Private Practice - Clinical Officer,36.8921700000,-1.32805000000,Nairobi County,0101000000753C66A032724240AB3E575BB13FF5BF
+607,Jkia Health Centre,607,wMQsSLWQYPB,12991,,Basic Health Centre,Ministry of Health,36.9251700000,-1.32882000000,Nairobi County,0101000000C39E76F86B764240DE54A4C2D842F5BF
+608,Karen Technical Training Institute for the Deaf Dispensary,608,XIYdwgdcc1p,20340,,Dispensary,Ministry of Health,36.7168300000,-1.33004000000,Nairobi County,01010000005665DF15C15B42400EF3E505D847F5BF
+609,Getrude Embakasi Clinic,609,AT1TM0jgFh4,18395,,Medical Clinic,Private Practice - General Practitioner,36.8894000000,-1.33010000000,Nairobi County,0101000000FD87F4DBD7714240B98D06F01648F5BF
+610,7KR Mrs Health Centre,610,kMvyfZaFoq8,13043,,Basic Health Centre,Armed Forces,36.7835100000,-1.33192000000,Nairobi County,0101000000630B410E4A6442408F368E588B4FF5BF
+611,PCEA Kuwinda Health Clinic,611,lIgOTBaAd7b,18763,,Dispensary,Christian Health Association of Kenya,36.7432170000,-1.33438700000,Nairobi County,0101000000666A12BC215F42402252D32EA659F5BF
+612,Mukuru Health Centre,612,Fc0JkHQA1og,18463,,Basic Health Centre,Ministry of Health,36.8766200000,-1.33496000000,Nairobi County,010100000080828B1535704240957D5704FF5BF5BF
+613,Bomas of Kenya Dispensary,613,nIWne3mxn2n,12886,,Dispensary,Public Institution - Parastatal,36.7681900000,-1.33680000000,Nairobi County,01010000009F8EC70C546242404FAF94658863F5BF
+614,The Karen Hospital,614,dU2BSQ7w7wU,13004,,Primary care hospitals,Private Practice - General Practitioner,36.7258900000,-1.33687000000,Nairobi County,0101000000293FA9F6E95C42406B0E10CCD163F5BF
+615,Wellnessprogram Kws Hq,615,ZIotOG7XEHP,18860,,Dispensary,Public Institution - Parastatal,36.7805400000,-1.33694000000,Nairobi County,0101000000249C16BCE8634240876D8B321B64F5BF
+616,Cotolengo Centre,616,C8uObdIj8yg,12907,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.7262200000,-1.33712000000,Nairobi County,0101000000BED9E6C6F45C4240863DEDF0D764F5BF
+617,AAR Healthcare Limited (Karen),617,riq84143SVj,18859,,Medical Clinic,Private Practice - Private Institution Academic,36.7577700000,-1.34080000000,Nairobi County,0101000000E9F17B9BFE604240F9A067B3EA73F5BF
+618,Dreams Centre Dispensary (Langata),618,rGgw3l0bHEI,12929,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.7543700000,-1.34111000000,Nairobi County,0101000000B18A37328F604240BE6A65C22F75F5BF
+619,Vegpro In House Clinic,619,CJOE1alfBij,18202,,Medical Center,Private Practice - Private Company,36.9148500000,-1.34123000000,Nairobi County,0101000000705F07CE1975424012A0A696AD75F5BF
+620,Marist International University College Medical Clinic,620,k7Zqd5nlBP8,20089,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.7281200000,-1.34268000000,Nairobi County,010100000021C84109335D42407AE40F069E7BF5BF
+621,Catholic University Dispensary,621,hAFbLT9nvkj,12892,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.7564900000,-1.34977000000,Nairobi County,010100000022E010AAD460424062F3716DA898F5BF
+622,Maria Dominica Dispensary,622,i4tV309s7wV,13061,,Dispensary,Kenya Episcopal Conference-Catholic Secretariat,36.7227600000,-1.35882000000,Nairobi County,0101000000B16D5166835C42405969520ABABDF5BF
+623,CMIA Grace Children's Centre Dispensary,623,icVOBY9yDmr,20369,,Dispensary,Christian Health Association of Kenya,36.7255300000,-1.35914000000,Nairobi County,01010000002922C32ADE5C424090F7AA9509BFF5BF
+624,The Co-Operative University College of Kenya Dispensary,624,gu7JA8KMQCk,18304,,Dispensary,Public Institution - Parastatal,36.7290900000,-1.36643000000,Nairobi County,01010000009AEB34D2525D42405B5F24B4E5DCF5BF
+625,Multi Media University Dispensary,625,hFFl8gIEROR,13018,,Dispensary,Public Institution - Parastatal,36.7707900000,-1.38183000000,Nairobi County,0101000000BB0A293FA96242405C1B2AC6F91BF6BF
