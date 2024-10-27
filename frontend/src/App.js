@@ -295,13 +295,44 @@ function AppContent() {
       type: 'circle',
       source: 'facilities',
       paint: {
-        'circle-radius': 10,
-        'circle-color': [
-          'case',
-          ['==', ['get', 'isUploaded'], true],
-          '#00bf7c',
-          '#007cbf'
-        ],
+      'circle-radius': [
+      'interpolate',
+      ['linear'],
+      ['zoom'],
+      8,  5,  // At zoom level 8, circles are tiny (0.5px)
+      10, 10,   // At zoom level 10, circles are 2px
+      12, 15,   // At zoom level 12, circles are 4px
+      14, 20,   // At zoom level 14, circles are 8px
+      16, 25   // At zoom level 16+, circles are 10px
+    ],
+     // Circle opacity fades based on zoom level
+     'circle-opacity': [
+      'interpolate',
+      ['linear'],
+      ['zoom'],
+      6, 0.1,
+      8, 0.3,  // At zoom level 8, circles are 30% visible
+      10, 0.5, // At zoom level 10, circles are 50% visible
+      12, 0.8, // At zoom level 12, circles are 80% visible
+      14, 1    // At zoom level 14+, circles are fully visible
+    ],
+    // Circle color remains the same as before
+    'circle-color': [
+      'case',
+      ['==', ['get', 'isUploaded'], true],
+      '#00bf7c',
+      '#007cbf'
+    ],
+     // Added stroke for better visibility at smaller sizes
+     'circle-stroke-width': [
+      'interpolate',
+      ['linear'],
+      ['zoom'],
+      8, 0,    // No stroke at low zoom
+      12, 0.5, // 0.5px stroke at medium zoom
+      14, 1    // 1px stroke at high zoom
+    ],
+    'circle-stroke-color': '#ffffff'
       },
     });
 

@@ -17,7 +17,7 @@ const LoadComponent = () => {
   return (
     <div className="load-overlay">
       <div className="spinner"></div>
-      <p>Loading...</p>
+      <p>Almost there...</p>
     </div>
   );
 };
